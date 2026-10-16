@@ -1,0 +1,548 @@
+{
+  "best_model_name": "Logistic Regression",
+  "selected_metric": "f1_weighted",
+  "best_metrics": {
+    "model_name": "Logistic Regression",
+    "accuracy": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0
+  },
+  "all_metrics": [
+    {
+      "model_name": "Logistic Regression",
+      "accuracy": 1.0,
+      "precision_weighted": 1.0,
+      "recall_weighted": 1.0,
+      "f1_weighted": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    },
+    {
+      "model_name": "Linear SVM",
+      "accuracy": 1.0,
+      "precision_weighted": 1.0,
+      "recall_weighted": 1.0,
+      "f1_weighted": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    }
+  ],
+  "per_class_reports": {
+    "Logistic Regression": {
+      "Account & Login": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Billing & Payment": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Cancellation": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Delivery": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "General Inquiry": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Product Issue": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Refund": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Technical Issue": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 320.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 320.0
+      }
+    },
+    "Linear SVM": {
+      "Account & Login": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Billing & Payment": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Cancellation": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Delivery": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "General Inquiry": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Product Issue": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Refund": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "Technical Issue": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 40.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 320.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 320.0
+      }
+    }
+  },
+  "categories": [
+    "Account & Login",
+    "Billing & Payment",
+    "Cancellation",
+    "Delivery",
+    "General Inquiry",
+    "Product Issue",
+    "Refund",
+    "Technical Issue"
+  ],
+  "category_descriptions": {
+    "Billing & Payment": "Issues involving charges, invoices, payments and billing.",
+    "Delivery": "Issues involving shipment, courier, tracking and delivery.",
+    "Product Issue": "Issues involving damaged, defective, incorrect or poor-quality products.",
+    "Account & Login": "Issues involving passwords, login, verification and account access.",
+    "Technical Issue": "Issues involving application, website, errors, crashes and technical failures.",
+    "Refund": "Issues involving pending, incorrect or missing refunds.",
+    "Cancellation": "Requests or problems involving cancellation of orders, subscriptions or bookings.",
+    "General Inquiry": "General information requests that do not represent a specific complaint category."
+  },
+  "top_keywords_by_category": {
+    "Account & Login": [
+      {
+        "word": "account",
+        "tfidf_score": 0.1058
+      },
+      {
+        "word": "password reset",
+        "tfidf_score": 0.06
+      },
+      {
+        "word": "password",
+        "tfidf_score": 0.06
+      },
+      {
+        "word": "reset",
+        "tfidf_score": 0.06
+      },
+      {
+        "word": "email",
+        "tfidf_score": 0.0565
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.0556
+      },
+      {
+        "word": "account locked",
+        "tfidf_score": 0.0489
+      },
+      {
+        "word": "locked",
+        "tfidf_score": 0.0489
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.0425
+      },
+      {
+        "word": "log",
+        "tfidf_score": 0.04
+      }
+    ],
+    "Billing & Payment": [
+      {
+        "word": "payment",
+        "tfidf_score": 0.1129
+      },
+      {
+        "word": "charged",
+        "tfidf_score": 0.0918
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.0573
+      },
+      {
+        "word": "incorrect",
+        "tfidf_score": 0.0572
+      },
+      {
+        "word": "invoice",
+        "tfidf_score": 0.0556
+      },
+      {
+        "word": "charge",
+        "tfidf_score": 0.0556
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.0471
+      },
+      {
+        "word": "unexpected fee",
+        "tfidf_score": 0.042
+      },
+      {
+        "word": "unexpected",
+        "tfidf_score": 0.042
+      },
+      {
+        "word": "fee",
+        "tfidf_score": 0.042
+      }
+    ],
+    "Cancellation": [
+      {
+        "word": "cancel",
+        "tfidf_score": 0.1482
+      },
+      {
+        "word": "want cancel",
+        "tfidf_score": 0.1021
+      },
+      {
+        "word": "want",
+        "tfidf_score": 0.0891
+      },
+      {
+        "word": "need",
+        "tfidf_score": 0.0694
+      },
+      {
+        "word": "order",
+        "tfidf_score": 0.0668
+      },
+      {
+        "word": "cancellation",
+        "tfidf_score": 0.0637
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.0631
+      },
+      {
+        "word": "subscription",
+        "tfidf_score": 0.0627
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.048
+      },
+      {
+        "word": "purchase",
+        "tfidf_score": 0.0443
+      }
+    ],
+    "Delivery": [
+      {
+        "word": "package",
+        "tfidf_score": 0.101
+      },
+      {
+        "word": "delivery",
+        "tfidf_score": 0.0832
+      },
+      {
+        "word": "delivered",
+        "tfidf_score": 0.0663
+      },
+      {
+        "word": "courier",
+        "tfidf_score": 0.0657
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.05
+      },
+      {
+        "word": "received",
+        "tfidf_score": 0.0492
+      },
+      {
+        "word": "order delivered",
+        "tfidf_score": 0.0417
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.0411
+      },
+      {
+        "word": "contacted",
+        "tfidf_score": 0.0401
+      },
+      {
+        "word": "courier contacted",
+        "tfidf_score": 0.0401
+      }
+    ],
+    "General Inquiry": [
+      {
+        "word": "information",
+        "tfidf_score": 0.1099
+      },
+      {
+        "word": "want",
+        "tfidf_score": 0.0982
+      },
+      {
+        "word": "need",
+        "tfidf_score": 0.0758
+      },
+      {
+        "word": "need information",
+        "tfidf_score": 0.0682
+      },
+      {
+        "word": "want know",
+        "tfidf_score": 0.0592
+      },
+      {
+        "word": "know",
+        "tfidf_score": 0.0592
+      },
+      {
+        "word": "service",
+        "tfidf_score": 0.0499
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.0491
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.0479
+      },
+      {
+        "word": "want information",
+        "tfidf_score": 0.044
+      }
+    ],
+    "Product Issue": [
+      {
+        "word": "product",
+        "tfidf_score": 0.1429
+      },
+      {
+        "word": "item",
+        "tfidf_score": 0.0787
+      },
+      {
+        "word": "arrived",
+        "tfidf_score": 0.0765
+      },
+      {
+        "word": "item arrived",
+        "tfidf_score": 0.0582
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.0445
+      },
+      {
+        "word": "product defect",
+        "tfidf_score": 0.0436
+      },
+      {
+        "word": "defect",
+        "tfidf_score": 0.0436
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.041
+      },
+      {
+        "word": "report product",
+        "tfidf_score": 0.0403
+      },
+      {
+        "word": "different product",
+        "tfidf_score": 0.0393
+      }
+    ],
+    "Refund": [
+      {
+        "word": "refund",
+        "tfidf_score": 0.1835
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.0628
+      },
+      {
+        "word": "pending",
+        "tfidf_score": 0.0604
+      },
+      {
+        "word": "received",
+        "tfidf_score": 0.0494
+      },
+      {
+        "word": "need",
+        "tfidf_score": 0.0487
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.0475
+      },
+      {
+        "word": "check",
+        "tfidf_score": 0.0421
+      },
+      {
+        "word": "refund pending",
+        "tfidf_score": 0.0416
+      },
+      {
+        "word": "promised refund",
+        "tfidf_score": 0.0386
+      },
+      {
+        "word": "refund arrived",
+        "tfidf_score": 0.0386
+      }
+    ],
+    "Technical Issue": [
+      {
+        "word": "application",
+        "tfidf_score": 0.0629
+      },
+      {
+        "word": "keeps",
+        "tfidf_score": 0.0573
+      },
+      {
+        "word": "help",
+        "tfidf_score": 0.05
+      },
+      {
+        "word": "working",
+        "tfidf_score": 0.0458
+      },
+      {
+        "word": "resolve",
+        "tfidf_score": 0.045
+      },
+      {
+        "word": "file",
+        "tfidf_score": 0.0398
+      },
+      {
+        "word": "upload file",
+        "tfidf_score": 0.0398
+      },
+      {
+        "word": "upload",
+        "tfidf_score": 0.0398
+      },
+      {
+        "word": "freezes checkout",
+        "tfidf_score": 0.0393
+      },
+      {
+        "word": "checkout",
+        "tfidf_score": 0.0393
+      }
+    ]
+  },
+  "dataset_stats": {
+    "total_records": 1600,
+    "num_categories": 8,
+    "is_balanced": true,
+    "train_samples": 1280,
+    "test_samples": 320,
+    "category_counts": {
+      "Technical Issue": 200,
+      "Product Issue": 200,
+      "Billing & Payment": 200,
+      "Account & Login": 200,
+      "Cancellation": 200,
+      "Delivery": 200,
+      "Refund": 200,
+      "General Inquiry": 200
+    }
+  },
+  "tfidf_config": {
+    "max_features": 5000,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "stop_words": "english",
+    "sublinear_tf": true
+  }
+}

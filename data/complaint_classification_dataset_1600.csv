@@ -1,0 +1,1601 @@
+id,complaint,category
+1,I would like to report that app freezes during checkout Please provide a solution.,Technical Issue
+2,I want to report that specifications do not match listing Can you check this for me?,Product Issue
+3,service stopped working after an update Can you investigate this?,Technical Issue
+4,"Please help, unexpected fee on bill Kindly help me resolve the issue.",Billing & Payment
+5,I would like to report that want to change registered email This needs to be fixed.,Account & Login
+6,My issue is that product stopped working quickly Kindly help me resolve the issue.,Product Issue
+7,I would like to report that product has visible damage Please look into it.,Product Issue
+8,I would like to report that want to cancel booking Please resolve this.,Cancellation
+9,Could you resolve this: application keeps crashing.,Technical Issue
+10,"Please help, item arrived with missing parts I would appreciate your help.",Product Issue
+11,Customer support needed: want to know when package will arrive Please look into it.,Delivery
+12,Can you help? promised refund has not arrived Can you investigate this?,Refund
+13,Can you help? screen is displaying incorrectly I would appreciate your help.,Technical Issue
+14,My issue is that cannot upload a file Please provide a solution.,Technical Issue
+15,"Please help, have a question about features I would appreciate your help.",General Inquiry
+16,I am facing this problem: cannot log in.,Account & Login
+17,I need assistance because incorrect billing information Please look into it.,Billing & Payment
+18,I want to report that requested refund but have not received it.,Refund
+19,My issue is that delivery address was not followed I would appreciate your help.,Delivery
+20,I need assistance because received a different product I need assistance with this.,Product Issue
+21,I want to report that want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+22,I would like to report that charged a different amount This needs to be fixed.,Billing & Payment
+23,Could you resolve this: cannot upload a file Can you check this for me?,Technical Issue
+24,I would like to report that screen is displaying incorrectly Please look into it.,Technical Issue
+25,I am facing this problem: product arrived damaged.,Product Issue
+26,I want to report that need general information before ordering I would appreciate your help.,General Inquiry
+27,I need assistance because courier has not contacted me Can you check this for me?,Delivery
+28,Could you resolve this: payment deducted but still pending I would appreciate your help.,Billing & Payment
+29,I am facing this problem: item arrived broken Can you investigate this?,Product Issue
+30,My issue is that charged a different amount This needs to be fixed.,Billing & Payment
+31,Can you help? item arrived broken Can you investigate this?,Product Issue
+32,I need assistance because product quality is poor This needs to be fixed.,Product Issue
+33,I want to report that a feature is not working I would appreciate your help.,Technical Issue
+34,My issue is that website is not loading properly Please resolve this.,Technical Issue
+35,My issue is that incorrect invoice charge Please provide a solution.,Billing & Payment
+36,I am facing this problem: item arrived broken I need assistance with this.,Product Issue
+37,Could you resolve this: payment will not go through I need assistance with this.,Billing & Payment
+38,I would like to report that refund is missing from bank account I would appreciate your help.,Refund
+39,Customer support needed: need information about services.,General Inquiry
+40,I would like to report that getting an error message Can you investigate this?,Technical Issue
+41,My issue is that verification code is not working Please provide a solution.,Account & Login
+42,"Please help, getting an error message Can you investigate this?",Technical Issue
+43,Customer support needed: account is locked Please provide a solution.,Account & Login
+44,password reset email is not arriving Can you investigate this?,Account & Login
+45,I am facing this problem: a feature is not working I would appreciate your help.,Technical Issue
+46,I need assistance because application keeps crashing Kindly help me resolve the issue.,Technical Issue
+47,"Please help, accidentally placed order and want to cancel I would appreciate your help.",Cancellation
+48,Could you resolve this: want to cancel booking This needs to be fixed.,Cancellation
+49,I want to report that want to cancel order Kindly help me resolve the issue.,Cancellation
+50,Can you help? order has not been delivered Kindly help me resolve the issue.,Delivery
+51,I need assistance because delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+52,My issue is that service stopped working after an update Can you investigate this?,Technical Issue
+53,I would like to report that charged a different amount Please resolve this.,Billing & Payment
+54,Can you help? need help cancelling service Please look into it.,Cancellation
+55,I am facing this problem: item does not work as described This needs to be fixed.,Product Issue
+56,I am facing this problem: product has a defect Can you check this for me?,Product Issue
+57,My issue is that product quality is poor Please resolve this.,Product Issue
+58,unexpected fee on bill.,Billing & Payment
+59,want to find terms and conditions I need assistance with this.,General Inquiry
+60,I want to report that wrong amount charged.,Billing & Payment
+61,verification code is not working Please provide a solution.,Account & Login
+62,Customer support needed: how can I cancel my purchase I need assistance with this.,Cancellation
+63,"Please help, service stopped working after an update Can you investigate this?",Technical Issue
+64,Customer support needed: a feature is not working Please look into it.,Technical Issue
+65,I want to report that requested cancellation but order is still active I need assistance with this.,Cancellation
+66,Could you resolve this: cancelled order money was not returned Please provide a solution.,Refund
+67,I would like to report that need to cancel before shipping Please provide a solution.,Cancellation
+68,Customer support needed: package says delivered but was not received I need assistance with this.,Delivery
+69,I need assistance because promised refund has not arrived I need assistance with this.,Refund
+70,I am facing this problem: charged twice for the same payment This needs to be fixed.,Billing & Payment
+71,"Please help, item arrived broken I need assistance with this.",Product Issue
+72,I would like to report that refund was processed for wrong amount Please resolve this.,Refund
+73,I want to report that verification code is not working Please provide a solution.,Account & Login
+74,I am facing this problem: received only part of the refund Can you investigate this?,Refund
+75,Customer support needed: need to cancel before shipping Please provide a solution.,Cancellation
+76,I need assistance because want to cancel booking Please resolve this.,Cancellation
+77,"Please help, want to know support hours Can you check this for me?",General Inquiry
+78,My issue is that received only part of the refund I need assistance with this.,Refund
+79,"Please help, password reset email is not arriving Can you investigate this?",Account & Login
+80,I want to report that want to know support hours Can you check this for me?,General Inquiry
+81,I would like to report that need to cancel before shipping Can you check this for me?,Cancellation
+82,I need assistance because page keeps refreshing.,Technical Issue
+83,My issue is that forgot password and cannot reset it Please resolve this.,Account & Login
+84,I would like to report that need general information before ordering Please look into it.,General Inquiry
+85,Can you help? accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+86,My issue is that order has not been delivered.,Delivery
+87,My issue is that want to know when package will arrive Please look into it.,Delivery
+88,I am facing this problem: incorrect billing information Please look into it.,Billing & Payment
+89,Customer support needed: want an explanation of service options.,General Inquiry
+90,Could you resolve this: need information about services.,General Inquiry
+91,Can you help? requested refund but have not received it Kindly help me resolve the issue.,Refund
+92,I would like to report that charged twice for the same payment This needs to be fixed.,Billing & Payment
+93,I would like to report that want to know support hours Please provide a solution.,General Inquiry
+94,"Please help, delivery marked unsuccessful while I was available Can you investigate this?",Delivery
+95,I want to report that application keeps crashing.,Technical Issue
+96,I want to report that payment deducted but still pending I would appreciate your help.,Billing & Payment
+97,Customer support needed: incorrect invoice charge Can you check this for me?,Billing & Payment
+98,want more information about the product Please resolve this.,General Inquiry
+99,I am facing this problem: want an explanation of service options.,General Inquiry
+100,Customer support needed: order has not been delivered Kindly help me resolve the issue.,Delivery
+101,Customer support needed: app freezes during checkout Can you check this for me?,Technical Issue
+102,Can you help? app freezes during checkout Please provide a solution.,Technical Issue
+103,"Please help, incorrect billing information Please look into it.",Billing & Payment
+104,need information about my order I need assistance with this.,General Inquiry
+105,I am facing this problem: want to know available plans This needs to be fixed.,General Inquiry
+106,Could you resolve this: want more information about the product This needs to be fixed.,General Inquiry
+107,I am facing this problem: payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+108,"Please help, want to stop recurring subscription Kindly help me resolve the issue.",Cancellation
+109,My issue is that app freezes during checkout Can you check this for me?,Technical Issue
+110,My issue is that specifications do not match listing Can you check this for me?,Product Issue
+111,I want to report that need help cancelling service Please look into it.,Cancellation
+112,Could you resolve this: delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+113,I want to report that incorrect billing information I would appreciate your help.,Billing & Payment
+114,I need assistance because charged a different amount This needs to be fixed.,Billing & Payment
+115,I want to report that screen is displaying incorrectly Please look into it.,Technical Issue
+116,My issue is that cannot access account from a new device I would appreciate your help.,Account & Login
+117,I want to report that product has a defect Please provide a solution.,Product Issue
+118,Could you resolve this: wrong amount charged.,Billing & Payment
+119,"Please help, want to cancel booking Please resolve this.",Cancellation
+120,I would like to report that want to know when package will arrive Please look into it.,Delivery
+121,Customer support needed: want to know support hours Can you check this for me?,General Inquiry
+122,"Please help, product has a defect Can you check this for me?",Product Issue
+123,need information about services.,General Inquiry
+124,My issue is that incorrect invoice charge Can you check this for me?,Billing & Payment
+125,I want to report that cancellation option is not working Can you check this for me?,Cancellation
+126,Could you resolve this: a feature is not working Please look into it.,Technical Issue
+127,I need assistance because cancelled order money was not returned Can you check this for me?,Refund
+128,I want to report that unclear charge on invoice Please provide a solution.,Billing & Payment
+129,I am facing this problem: delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+130,I am facing this problem: charged twice for the same payment Please resolve this.,Billing & Payment
+131,I would like to report that unexpected fee on bill.,Billing & Payment
+132,I need assistance because account is locked Please provide a solution.,Account & Login
+133,I am facing this problem: received a different product Can you investigate this?,Product Issue
+134,I would like to report that payment deducted but still pending Please look into it.,Billing & Payment
+135,I need assistance because unable to verify account I need assistance with this.,Account & Login
+136,Customer support needed: product stopped working quickly Kindly help me resolve the issue.,Product Issue
+137,I need assistance because payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+138,Can you help? package says delivered but was not received I need assistance with this.,Delivery
+139,"Please help, requested refund but have not received it.",Refund
+140,I need assistance because item arrived with missing parts Please look into it.,Product Issue
+141,I want to report that product arrived damaged Kindly help me resolve the issue.,Product Issue
+142,I need assistance because getting an error message Can you investigate this?,Technical Issue
+143,"Please help, account details will not update Kindly help me resolve the issue.",Account & Login
+144,I am facing this problem: delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+145,requested cancellation but order is still active Can you investigate this?,Cancellation
+146,product has a defect Please provide a solution.,Product Issue
+147,I would like to report that received the wrong package This needs to be fixed.,Delivery
+148,need to cancel before shipping Can you check this for me?,Cancellation
+149,I want to report that product stopped working quickly Kindly help me resolve the issue.,Product Issue
+150,Could you resolve this: item does not work as described Please resolve this.,Product Issue
+151,Customer support needed: item arrived with missing parts Please look into it.,Product Issue
+152,My issue is that product has visible damage I would appreciate your help.,Product Issue
+153,Customer support needed: order has not been delivered.,Delivery
+154,delivery address was not followed I would appreciate your help.,Delivery
+155,I want to report that received the wrong package Please resolve this.,Delivery
+156,I want to report that need general information before ordering Please look into it.,General Inquiry
+157,I want to report that want to check refund status.,Refund
+158,I am facing this problem: cannot upload a file Can you check this for me?,Technical Issue
+159,I would like to report that package is stuck with courier.,Delivery
+160,I want to report that unexpected fee on bill.,Billing & Payment
+161,I am facing this problem: application keeps crashing.,Technical Issue
+162,Could you resolve this: item arrived with missing parts I would appreciate your help.,Product Issue
+163,cancelled order money was not returned Please provide a solution.,Refund
+164,Could you resolve this: item arrived broken Can you investigate this?,Product Issue
+165,Could you resolve this: page keeps refreshing.,Technical Issue
+166,how can I cancel my purchase Can you investigate this?,Cancellation
+167,I need assistance because refunded amount is incorrect Can you check this for me?,Refund
+168,Can you help? charged a different amount This needs to be fixed.,Billing & Payment
+169,"Please help, courier has not contacted me Please provide a solution.",Delivery
+170,I want to report that want to change registered email Please resolve this.,Account & Login
+171,"Please help, need help with pending refund Please look into it.",Refund
+172,My issue is that screen is displaying incorrectly I would appreciate your help.,Technical Issue
+173,I want to report that getting an error message Can you investigate this?,Technical Issue
+174,I am facing this problem: want to know support hours Can you check this for me?,General Inquiry
+175,My issue is that package is stuck with courier.,Delivery
+176,want to change registered email Please resolve this.,Account & Login
+177,My issue is that app freezes during checkout Please provide a solution.,Technical Issue
+178,I need assistance because have a question about features I would appreciate your help.,General Inquiry
+179,I want to report that page keeps refreshing.,Technical Issue
+180,I am facing this problem: want to know when package will arrive I would appreciate your help.,Delivery
+181,Can you help? want more information about the product Please resolve this.,General Inquiry
+182,I would like to report that delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+183,I need assistance because application keeps crashing.,Technical Issue
+184,Can you help? want to change registered email This needs to be fixed.,Account & Login
+185,I am facing this problem: want to find terms and conditions I need assistance with this.,General Inquiry
+186,I want to report that cancellation option is not working Please provide a solution.,Cancellation
+187,item arrived broken I need assistance with this.,Product Issue
+188,My issue is that promised refund has not arrived Can you investigate this?,Refund
+189,application is extremely slow Please resolve this.,Technical Issue
+190,password reset email is not arriving I need assistance with this.,Account & Login
+191,I want to report that tracking has not updated Please provide a solution.,Delivery
+192,Can you help? product has visible damage I would appreciate your help.,Product Issue
+193,Can you help? want to check refund status Kindly help me resolve the issue.,Refund
+194,"Please help, want to find terms and conditions Can you investigate this?",General Inquiry
+195,Can you help? want to stop recurring subscription.,Cancellation
+196,I would like to report that want to check refund status.,Refund
+197,I want to report that product arrived damaged.,Product Issue
+198,I am facing this problem: incorrect invoice charge Can you check this for me?,Billing & Payment
+199,Can you help? application keeps crashing.,Technical Issue
+200,I am facing this problem: need to cancel before shipping Can you check this for me?,Cancellation
+201,Customer support needed: account is locked Can you check this for me?,Account & Login
+202,I am facing this problem: want more information about the product Please resolve this.,General Inquiry
+203,Could you resolve this: delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+204,I want to report that refund is missing from bank account Please look into it.,Refund
+205,I am facing this problem: verification code is not working Please provide a solution.,Account & Login
+206,Could you resolve this: product has visible damage Please look into it.,Product Issue
+207,Can you help? delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+208,I am facing this problem: accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+209,I would like to report that want to stop recurring subscription.,Cancellation
+210,I need assistance because need help cancelling service Please look into it.,Cancellation
+211,"Please help, cannot access account from a new device Please look into it.",Account & Login
+212,I want to report that need information about my order Can you investigate this?,General Inquiry
+213,"Please help, need information about my order Can you investigate this?",General Inquiry
+214,page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+215,My issue is that requested refund but have not received it Kindly help me resolve the issue.,Refund
+216,Could you resolve this: delivery address was not followed Please look into it.,Delivery
+217,Could you resolve this: received only part of the refund Can you investigate this?,Refund
+218,"Please help, requested cancellation but order is still active I need assistance with this.",Cancellation
+219,Can you help? refund is still pending Please resolve this.,Refund
+220,I am facing this problem: unclear charge on invoice Can you check this for me?,Billing & Payment
+221,I am facing this problem: screen is displaying incorrectly Please look into it.,Technical Issue
+222,I would like to report that a feature is not working Please look into it.,Technical Issue
+223,I need assistance because payment will not go through I need assistance with this.,Billing & Payment
+224,want an explanation of service options.,General Inquiry
+225,"Please help, want to cancel booking This needs to be fixed.",Cancellation
+226,"Please help, want to change registered email This needs to be fixed.",Account & Login
+227,Customer support needed: wrong amount charged.,Billing & Payment
+228,Can you help? product stopped working quickly Kindly help me resolve the issue.,Product Issue
+229,I would like to report that want more information about the product Please resolve this.,General Inquiry
+230,I want to report that account details will not update.,Account & Login
+231,I want to report that courier has not contacted me Please provide a solution.,Delivery
+232,Could you resolve this: want to know available plans Please resolve this.,General Inquiry
+233,Can you help? delivery address was not followed I would appreciate your help.,Delivery
+234,I want to report that cancelled order money was not returned Please provide a solution.,Refund
+235,"Please help, product arrived damaged.",Product Issue
+236,Could you resolve this: need help cancelling service Please look into it.,Cancellation
+237,screen is displaying incorrectly I would appreciate your help.,Technical Issue
+238,Can you help? cancelled order money was not returned Can you check this for me?,Refund
+239,Can you help? want to cancel subscription Please resolve this.,Cancellation
+240,Can you help? received only part of the refund I need assistance with this.,Refund
+241,Customer support needed: wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+242,"Please help, payment deducted but still pending I would appreciate your help.",Billing & Payment
+243,Customer support needed: payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+244,I would like to report that want to cancel order Kindly help me resolve the issue.,Cancellation
+245,Could you resolve this: cannot log in Kindly help me resolve the issue.,Account & Login
+246,Customer support needed: promised refund has not arrived I need assistance with this.,Refund
+247,"Please help, want an explanation of service options Kindly help me resolve the issue.",General Inquiry
+248,I want to report that want to know available plans This needs to be fixed.,General Inquiry
+249,service stopped working after an update I need assistance with this.,Technical Issue
+250,I want to report that want more information about the product Please resolve this.,General Inquiry
+251,payment will not go through I need assistance with this.,Billing & Payment
+252,Can you help? tracking has not updated Can you check this for me?,Delivery
+253,I want to report that product has visible damage I would appreciate your help.,Product Issue
+254,"Please help, delivery address was not followed Please look into it.",Delivery
+255,accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+256,login credentials are rejected I would appreciate your help.,Account & Login
+257,"Please help, how does the service work Please provide a solution.",General Inquiry
+258,Could you resolve this: have a question about features I would appreciate your help.,General Inquiry
+259,I am facing this problem: account is locked Please provide a solution.,Account & Login
+260,tracking has not updated Please provide a solution.,Delivery
+261,I need assistance because item does not work as described Please resolve this.,Product Issue
+262,Could you resolve this: want to cancel order.,Cancellation
+263,Can you help? have a question about features Please look into it.,General Inquiry
+264,I am facing this problem: order has not been delivered Kindly help me resolve the issue.,Delivery
+265,Could you resolve this: getting an error message Can you investigate this?,Technical Issue
+266,Customer support needed: account details will not update.,Account & Login
+267,My issue is that want to cancel booking This needs to be fixed.,Cancellation
+268,I want to report that payment will not go through I need assistance with this.,Billing & Payment
+269,I am facing this problem: website is not loading properly This needs to be fixed.,Technical Issue
+270,I want to report that refund was processed for wrong amount This needs to be fixed.,Refund
+271,Customer support needed: package is stuck with courier Kindly help me resolve the issue.,Delivery
+272,I need assistance because tracking has not updated Please provide a solution.,Delivery
+273,Could you resolve this: cannot access account from a new device Please look into it.,Account & Login
+274,Could you resolve this: service stopped working after an update Can you investigate this?,Technical Issue
+275,Could you resolve this: promised refund has not arrived Can you investigate this?,Refund
+276,I need assistance because product quality is poor Please resolve this.,Product Issue
+277,I want to report that incorrect invoice charge Please provide a solution.,Billing & Payment
+278,I want to report that promised refund has not arrived I need assistance with this.,Refund
+279,I would like to report that page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+280,cannot access account from a new device I would appreciate your help.,Account & Login
+281,I need assistance because charged twice for the same payment This needs to be fixed.,Billing & Payment
+282,Can you help? unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+283,My issue is that want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+284,Can you help? unable to verify account Can you investigate this?,Account & Login
+285,"Please help, tracking has not updated Can you check this for me?",Delivery
+286,"Please help, received only part of the refund Can you investigate this?",Refund
+287,Could you resolve this: refund is still pending Please resolve this.,Refund
+288,incorrect billing information I would appreciate your help.,Billing & Payment
+289,I am facing this problem: want to cancel booking This needs to be fixed.,Cancellation
+290,I want to report that requested refund but have not received it Kindly help me resolve the issue.,Refund
+291,Could you resolve this: requested cancellation but order is still active I need assistance with this.,Cancellation
+292,"Please help, requested refund but have not received it Kindly help me resolve the issue.",Refund
+293,I need assistance because requested refund but have not received it.,Refund
+294,"Please help, application keeps crashing Kindly help me resolve the issue.",Technical Issue
+295,I would like to report that have a question about features I would appreciate your help.,General Inquiry
+296,Can you help? received a different product I need assistance with this.,Product Issue
+297,"Please help, want to know when package will arrive I would appreciate your help.",Delivery
+298,I need assistance because item arrived broken Can you investigate this?,Product Issue
+299,Could you resolve this: received only part of the refund I need assistance with this.,Refund
+300,My issue is that application keeps crashing.,Technical Issue
+301,Customer support needed: refund is missing from bank account Please look into it.,Refund
+302,Customer support needed: unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+303,"Please help, screen is displaying incorrectly Please look into it.",Technical Issue
+304,I am facing this problem: cancelled order money was not returned Can you check this for me?,Refund
+305,I want to report that forgot password and cannot reset it This needs to be fixed.,Account & Login
+306,Could you resolve this: incorrect invoice charge Please provide a solution.,Billing & Payment
+307,Customer support needed: want to cancel booking This needs to be fixed.,Cancellation
+308,Could you resolve this: account is locked Can you check this for me?,Account & Login
+309,I am facing this problem: unable to verify account Can you investigate this?,Account & Login
+310,"Please help, requested cancellation but order is still active Can you investigate this?",Cancellation
+311,I am facing this problem: payment deducted but still pending Please look into it.,Billing & Payment
+312,Can you help? product quality is poor Please resolve this.,Product Issue
+313,My issue is that want more information about the product This needs to be fixed.,General Inquiry
+314,I need assistance because product arrived damaged.,Product Issue
+315,My issue is that incorrect billing information Please look into it.,Billing & Payment
+316,website is not loading properly Please resolve this.,Technical Issue
+317,Customer support needed: service stopped working after an update Can you investigate this?,Technical Issue
+318,I would like to report that want to change registered email Please resolve this.,Account & Login
+319,I would like to report that want to know when package will arrive I would appreciate your help.,Delivery
+320,I need assistance because password reset email is not arriving I need assistance with this.,Account & Login
+321,I am facing this problem: getting an error message Can you investigate this?,Technical Issue
+322,Can you help? verification code is not working Please provide a solution.,Account & Login
+323,I am facing this problem: product quality is poor Please resolve this.,Product Issue
+324,My issue is that payment will not go through I need assistance with this.,Billing & Payment
+325,I am facing this problem: login credentials are rejected I would appreciate your help.,Account & Login
+326,I would like to report that delivery address was not followed I would appreciate your help.,Delivery
+327,I need assistance because page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+328,I would like to report that item arrived with missing parts Please look into it.,Product Issue
+329,I would like to report that refund is still pending Please resolve this.,Refund
+330,Customer support needed: want to cancel subscription Please resolve this.,Cancellation
+331,I would like to report that refunded amount is incorrect Please provide a solution.,Refund
+332,I want to report that incorrect invoice charge Can you check this for me?,Billing & Payment
+333,"Please help, received the wrong package Please resolve this.",Delivery
+334,I want to report that website is not loading properly This needs to be fixed.,Technical Issue
+335,Could you resolve this: refund was processed for wrong amount Please resolve this.,Refund
+336,"Please help, refund is still pending This needs to be fixed.",Refund
+337,My issue is that payment deducted but still pending I would appreciate your help.,Billing & Payment
+338,I am facing this problem: want to cancel subscription This needs to be fixed.,Cancellation
+339,I need assistance because unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+340,Could you resolve this: a feature is not working I would appreciate your help.,Technical Issue
+341,Could you resolve this: login credentials are rejected I would appreciate your help.,Account & Login
+342,I am facing this problem: forgot password and cannot reset it This needs to be fixed.,Account & Login
+343,I want to report that want an explanation of service options.,General Inquiry
+344,product has visible damage Please look into it.,Product Issue
+345,package is stuck with courier Kindly help me resolve the issue.,Delivery
+346,Customer support needed: charged twice for the same payment Please resolve this.,Billing & Payment
+347,I am facing this problem: product has a defect Please provide a solution.,Product Issue
+348,app freezes during checkout Can you check this for me?,Technical Issue
+349,want to cancel subscription This needs to be fixed.,Cancellation
+350,I would like to report that a feature is not working I would appreciate your help.,Technical Issue
+351,Customer support needed: promised refund has not arrived Can you investigate this?,Refund
+352,Can you help? refunded amount is incorrect Please provide a solution.,Refund
+353,I would like to report that delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+354,"Please help, unclear charge on invoice Please provide a solution.",Billing & Payment
+355,I am facing this problem: want to stop recurring subscription.,Cancellation
+356,I am facing this problem: refund was processed for wrong amount Please resolve this.,Refund
+357,I need assistance because service stopped working after an update I need assistance with this.,Technical Issue
+358,Can you help? want more information about the product This needs to be fixed.,General Inquiry
+359,I need assistance because cannot access account from a new device Please look into it.,Account & Login
+360,Customer support needed: want to know support hours Please provide a solution.,General Inquiry
+361,need help cancelling service Please look into it.,Cancellation
+362,specifications do not match listing Please provide a solution.,Product Issue
+363,My issue is that website is not loading properly This needs to be fixed.,Technical Issue
+364,I would like to report that requested refund but have not received it Kindly help me resolve the issue.,Refund
+365,"Please help, account is locked Can you check this for me?",Account & Login
+366,Could you resolve this: charged a different amount Please resolve this.,Billing & Payment
+367,Can you help? courier has not contacted me Please provide a solution.,Delivery
+368,I need assistance because login credentials are rejected I would appreciate your help.,Account & Login
+369,"Please help, refund is still pending Please resolve this.",Refund
+370,Can you help? unable to verify account I need assistance with this.,Account & Login
+371,package is stuck with courier.,Delivery
+372,I am facing this problem: need help with pending refund I would appreciate your help.,Refund
+373,Could you resolve this: requested cancellation but order is still active Can you investigate this?,Cancellation
+374,Customer support needed: item arrived broken Can you investigate this?,Product Issue
+375,payment deducted but still pending Please look into it.,Billing & Payment
+376,Can you help? product quality is poor This needs to be fixed.,Product Issue
+377,I would like to report that courier has not contacted me Can you check this for me?,Delivery
+378,My issue is that item does not work as described Please resolve this.,Product Issue
+379,Could you resolve this: delivery is later than promised This needs to be fixed.,Delivery
+380,My issue is that accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+381,My issue is that want to know available plans Please resolve this.,General Inquiry
+382,Can you help? want to know when package will arrive Please look into it.,Delivery
+383,Customer support needed: delivery is later than promised This needs to be fixed.,Delivery
+384,I want to report that cannot upload a file Can you check this for me?,Technical Issue
+385,Customer support needed: cancelled order money was not returned Please provide a solution.,Refund
+386,I would like to report that need information about services.,General Inquiry
+387,I am facing this problem: login credentials are rejected Please look into it.,Account & Login
+388,"Please help, refunded amount is incorrect Can you check this for me?",Refund
+389,Customer support needed: password reset email is not arriving Can you investigate this?,Account & Login
+390,Could you resolve this: how can I cancel my purchase Can you investigate this?,Cancellation
+391,I need assistance because verification code is not working Can you check this for me?,Account & Login
+392,screen is displaying incorrectly Please look into it.,Technical Issue
+393,I want to report that accidentally placed order and want to cancel Please look into it.,Cancellation
+394,I am facing this problem: want more information about the product This needs to be fixed.,General Inquiry
+395,Could you resolve this: want to know available plans This needs to be fixed.,General Inquiry
+396,cannot upload a file Please provide a solution.,Technical Issue
+397,I want to report that payment deducted but still pending Please look into it.,Billing & Payment
+398,application keeps crashing.,Technical Issue
+399,I need assistance because payment deducted but still pending I would appreciate your help.,Billing & Payment
+400,want to check refund status.,Refund
+401,I would like to report that product stopped working quickly Kindly help me resolve the issue.,Product Issue
+402,I need assistance because item arrived with missing parts I would appreciate your help.,Product Issue
+403,My issue is that want to find terms and conditions Can you investigate this?,General Inquiry
+404,Customer support needed: charged a different amount Please resolve this.,Billing & Payment
+405,I am facing this problem: payment will not go through Can you investigate this?,Billing & Payment
+406,delivery is later than promised Please resolve this.,Delivery
+407,I need assistance because promised refund has not arrived Can you investigate this?,Refund
+408,"Please help, want to change registered email Please resolve this.",Account & Login
+409,My issue is that want to cancel subscription This needs to be fixed.,Cancellation
+410,Could you resolve this: charged twice for the same payment Please resolve this.,Billing & Payment
+411,Could you resolve this: promised refund has not arrived I need assistance with this.,Refund
+412,I would like to report that payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+413,I need assistance because want more information about the product This needs to be fixed.,General Inquiry
+414,I am facing this problem: specifications do not match listing Can you check this for me?,Product Issue
+415,Can you help? unclear charge on invoice Please provide a solution.,Billing & Payment
+416,I need assistance because received only part of the refund I need assistance with this.,Refund
+417,I would like to report that need information about my order Can you investigate this?,General Inquiry
+418,My issue is that delivery is later than promised Please resolve this.,Delivery
+419,Customer support needed: cancelled order money was not returned Can you check this for me?,Refund
+420,I want to report that verification code is not working Can you check this for me?,Account & Login
+421,I am facing this problem: received the wrong package Please resolve this.,Delivery
+422,I am facing this problem: password reset email is not arriving Can you investigate this?,Account & Login
+423,I would like to report that promised refund has not arrived I need assistance with this.,Refund
+424,"Please help, need help cancelling service I would appreciate your help.",Cancellation
+425,Customer support needed: account details will not update Kindly help me resolve the issue.,Account & Login
+426,I need assistance because want to know when package will arrive Please look into it.,Delivery
+427,I would like to report that want to find terms and conditions I need assistance with this.,General Inquiry
+428,My issue is that unclear charge on invoice Can you check this for me?,Billing & Payment
+429,I would like to report that want an explanation of service options.,General Inquiry
+430,I want to report that want to change registered email This needs to be fixed.,Account & Login
+431,I want to report that need information about my order I need assistance with this.,General Inquiry
+432,Customer support needed: charged twice for the same payment This needs to be fixed.,Billing & Payment
+433,Can you help? how can I cancel my purchase I need assistance with this.,Cancellation
+434,promised refund has not arrived I need assistance with this.,Refund
+435,Customer support needed: received only part of the refund Can you investigate this?,Refund
+436,I need assistance because login credentials are rejected Please look into it.,Account & Login
+437,"Please help, refund is missing from bank account Please look into it.",Refund
+438,received only part of the refund I need assistance with this.,Refund
+439,received the wrong package Please resolve this.,Delivery
+440,Can you help? account details will not update.,Account & Login
+441,I am facing this problem: incorrect billing information I would appreciate your help.,Billing & Payment
+442,need help with pending refund I would appreciate your help.,Refund
+443,I want to report that password reset email is not arriving I need assistance with this.,Account & Login
+444,Customer support needed: application is extremely slow Please resolve this.,Technical Issue
+445,"Please help, product has visible damage I would appreciate your help.",Product Issue
+446,Could you resolve this: payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+447,Customer support needed: want to cancel subscription This needs to be fixed.,Cancellation
+448,Could you resolve this: need help cancelling service I would appreciate your help.,Cancellation
+449,Customer support needed: login credentials are rejected I would appreciate your help.,Account & Login
+450,Can you help? getting an error message I need assistance with this.,Technical Issue
+451,I am facing this problem: courier has not contacted me Please provide a solution.,Delivery
+452,I want to report that getting an error message I need assistance with this.,Technical Issue
+453,I would like to report that promised refund has not arrived Can you investigate this?,Refund
+454,I would like to report that have a question about features Please look into it.,General Inquiry
+455,product arrived damaged.,Product Issue
+456,tracking has not updated Can you check this for me?,Delivery
+457,Could you resolve this: charged twice for the same payment This needs to be fixed.,Billing & Payment
+458,I need assistance because cancelled order money was not returned Please provide a solution.,Refund
+459,want to know available plans This needs to be fixed.,General Inquiry
+460,I would like to report that requested cancellation but order is still active I need assistance with this.,Cancellation
+461,Can you help? want to find terms and conditions I need assistance with this.,General Inquiry
+462,Could you resolve this: forgot password and cannot reset it Please resolve this.,Account & Login
+463,I need assistance because want to change registered email Please resolve this.,Account & Login
+464,Could you resolve this: need information about my order I need assistance with this.,General Inquiry
+465,I need assistance because how can I cancel my purchase I need assistance with this.,Cancellation
+466,I want to report that package says delivered but was not received I need assistance with this.,Delivery
+467,Could you resolve this: website is not loading properly Please resolve this.,Technical Issue
+468,My issue is that service stopped working after an update I need assistance with this.,Technical Issue
+469,Customer support needed: have a question about features Please look into it.,General Inquiry
+470,need general information before ordering Please look into it.,General Inquiry
+471,"Please help, promised refund has not arrived I need assistance with this.",Refund
+472,Can you help? want to cancel order.,Cancellation
+473,I would like to report that forgot password and cannot reset it Please resolve this.,Account & Login
+474,I am facing this problem: refunded amount is incorrect Please provide a solution.,Refund
+475,I am facing this problem: verification code is not working Can you check this for me?,Account & Login
+476,My issue is that cancellation option is not working Please provide a solution.,Cancellation
+477,Could you resolve this: wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+478,Can you help? application is extremely slow Please resolve this.,Technical Issue
+479,I need assistance because getting an error message I need assistance with this.,Technical Issue
+480,I would like to report that need general information before ordering I would appreciate your help.,General Inquiry
+481,item does not work as described Please resolve this.,Product Issue
+482,Customer support needed: product arrived damaged.,Product Issue
+483,I want to report that received the wrong package This needs to be fixed.,Delivery
+484,Customer support needed: want more information about the product This needs to be fixed.,General Inquiry
+485,Customer support needed: product quality is poor Please resolve this.,Product Issue
+486,Customer support needed: product arrived damaged Kindly help me resolve the issue.,Product Issue
+487,Could you resolve this: product quality is poor Please resolve this.,Product Issue
+488,"Please help, delivery marked unsuccessful while I was available I need assistance with this.",Delivery
+489,I need assistance because tracking has not updated Can you check this for me?,Delivery
+490,"Please help, want to know when package will arrive Please look into it.",Delivery
+491,Could you resolve this: refunded amount is incorrect Please provide a solution.,Refund
+492,I need assistance because charged twice for the same payment Please resolve this.,Billing & Payment
+493,received only part of the refund Can you investigate this?,Refund
+494,My issue is that want to know when package will arrive I would appreciate your help.,Delivery
+495,I need assistance because app freezes during checkout Can you check this for me?,Technical Issue
+496,Customer support needed: how does the service work Please provide a solution.,General Inquiry
+497,I am facing this problem: want to change registered email This needs to be fixed.,Account & Login
+498,Customer support needed: need information about my order Can you investigate this?,General Inquiry
+499,I am facing this problem: cannot upload a file Please provide a solution.,Technical Issue
+500,My issue is that courier has not contacted me Please provide a solution.,Delivery
+501,Could you resolve this: how does the service work Please provide a solution.,General Inquiry
+502,Customer support needed: website is not loading properly Please resolve this.,Technical Issue
+503,Can you help? forgot password and cannot reset it Please resolve this.,Account & Login
+504,I am facing this problem: requested refund but have not received it.,Refund
+505,Can you help? delivery is later than promised This needs to be fixed.,Delivery
+506,cancellation option is not working Can you check this for me?,Cancellation
+507,"Please help, refund is missing from bank account I would appreciate your help.",Refund
+508,want to know when package will arrive I would appreciate your help.,Delivery
+509,I need assistance because website is not loading properly Please resolve this.,Technical Issue
+510,payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+511,I would like to report that payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+512,want to cancel booking Please resolve this.,Cancellation
+513,Can you help? need general information before ordering I would appreciate your help.,General Inquiry
+514,I would like to report that received only part of the refund Can you investigate this?,Refund
+515,have a question about features Please look into it.,General Inquiry
+516,I need assistance because screen is displaying incorrectly Please look into it.,Technical Issue
+517,My issue is that need to cancel before shipping Please provide a solution.,Cancellation
+518,"Please help, account is locked Please provide a solution.",Account & Login
+519,I am facing this problem: specifications do not match listing Please provide a solution.,Product Issue
+520,"Please help, account details will not update.",Account & Login
+521,Could you resolve this: requested refund but have not received it.,Refund
+522,I am facing this problem: a feature is not working Please look into it.,Technical Issue
+523,"Please help, payment will not go through Can you investigate this?",Billing & Payment
+524,My issue is that how can I cancel my purchase I need assistance with this.,Cancellation
+525,product quality is poor Please resolve this.,Product Issue
+526,Could you resolve this: how does the service work Can you check this for me?,General Inquiry
+527,I am facing this problem: requested refund but have not received it Kindly help me resolve the issue.,Refund
+528,My issue is that need help cancelling service Please look into it.,Cancellation
+529,My issue is that received a different product I need assistance with this.,Product Issue
+530,"Please help, unable to verify account I need assistance with this.",Account & Login
+531,Can you help? item arrived with missing parts Please look into it.,Product Issue
+532,I am facing this problem: item arrived with missing parts I would appreciate your help.,Product Issue
+533,Can you help? requested refund but have not received it.,Refund
+534,I am facing this problem: service stopped working after an update I need assistance with this.,Technical Issue
+535,want to find terms and conditions Can you investigate this?,General Inquiry
+536,I want to report that have a question about features Please look into it.,General Inquiry
+537,Could you resolve this: specifications do not match listing Please provide a solution.,Product Issue
+538,My issue is that unclear charge on invoice Please provide a solution.,Billing & Payment
+539,My issue is that want an explanation of service options.,General Inquiry
+540,I am facing this problem: refunded amount is incorrect Can you check this for me?,Refund
+541,Customer support needed: want to know available plans This needs to be fixed.,General Inquiry
+542,I need assistance because forgot password and cannot reset it This needs to be fixed.,Account & Login
+543,I would like to report that unable to verify account I need assistance with this.,Account & Login
+544,My issue is that requested refund but have not received it.,Refund
+545,Can you help? application keeps crashing Kindly help me resolve the issue.,Technical Issue
+546,I want to report that service stopped working after an update Can you investigate this?,Technical Issue
+547,I need assistance because payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+548,I would like to report that account is locked Please provide a solution.,Account & Login
+549,My issue is that login credentials are rejected I would appreciate your help.,Account & Login
+550,I need assistance because accidentally placed order and want to cancel Please look into it.,Cancellation
+551,I would like to report that item arrived with missing parts I would appreciate your help.,Product Issue
+552,I need assistance because cannot log in Kindly help me resolve the issue.,Account & Login
+553,I am facing this problem: delivery address was not followed I would appreciate your help.,Delivery
+554,I am facing this problem: charged a different amount This needs to be fixed.,Billing & Payment
+555,My issue is that how does the service work Can you check this for me?,General Inquiry
+556,Could you resolve this: order has not been delivered.,Delivery
+557,I want to report that cannot access account from a new device I would appreciate your help.,Account & Login
+558,I am facing this problem: product has visible damage I would appreciate your help.,Product Issue
+559,I want to report that promised refund has not arrived Can you investigate this?,Refund
+560,website is not loading properly This needs to be fixed.,Technical Issue
+561,want to know available plans Please resolve this.,General Inquiry
+562,I need assistance because incorrect billing information I would appreciate your help.,Billing & Payment
+563,"Please help, want to cancel subscription This needs to be fixed.",Cancellation
+564,Can you help? item does not work as described Please resolve this.,Product Issue
+565,Can you help? received a different product Can you investigate this?,Product Issue
+566,Customer support needed: requested refund but have not received it.,Refund
+567,I need assistance because need information about services Kindly help me resolve the issue.,General Inquiry
+568,I would like to report that product quality is poor Please resolve this.,Product Issue
+569,Can you help? product arrived damaged Kindly help me resolve the issue.,Product Issue
+570,Can you help? need information about services.,General Inquiry
+571,"Please help, received the wrong package This needs to be fixed.",Delivery
+572,Could you resolve this: cannot access account from a new device I would appreciate your help.,Account & Login
+573,I am facing this problem: how can I cancel my purchase Can you investigate this?,Cancellation
+574,Customer support needed: want to check refund status Kindly help me resolve the issue.,Refund
+575,My issue is that application is extremely slow Please resolve this.,Technical Issue
+576,My issue is that charged twice for the same payment This needs to be fixed.,Billing & Payment
+577,Can you help? website is not loading properly Please resolve this.,Technical Issue
+578,Could you resolve this: want to cancel booking Please resolve this.,Cancellation
+579,Could you resolve this: refund is missing from bank account Please look into it.,Refund
+580,Can you help? requested cancellation but order is still active Can you investigate this?,Cancellation
+581,"Please help, item does not work as described Please resolve this.",Product Issue
+582,I want to report that accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+583,"Please help, how can I cancel my purchase Can you investigate this?",Cancellation
+584,My issue is that unexpected fee on bill.,Billing & Payment
+585,Could you resolve this: received the wrong package Please resolve this.,Delivery
+586,"Please help, courier has not contacted me Can you check this for me?",Delivery
+587,I want to report that website is not loading properly Please resolve this.,Technical Issue
+588,I need assistance because refund is missing from bank account I would appreciate your help.,Refund
+589,I would like to report that product has visible damage I would appreciate your help.,Product Issue
+590,My issue is that refund is missing from bank account I would appreciate your help.,Refund
+591,want to cancel order.,Cancellation
+592,I am facing this problem: application keeps crashing Kindly help me resolve the issue.,Technical Issue
+593,Customer support needed: incorrect billing information Please look into it.,Billing & Payment
+594,Could you resolve this: want to find terms and conditions Can you investigate this?,General Inquiry
+595,I need assistance because product has a defect Please provide a solution.,Product Issue
+596,"Please help, product quality is poor This needs to be fixed.",Product Issue
+597,Can you help? need to cancel before shipping Can you check this for me?,Cancellation
+598,I want to report that payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+599,Can you help? page keeps refreshing.,Technical Issue
+600,"Please help, cannot access account from a new device I would appreciate your help.",Account & Login
+601,how can I cancel my purchase I need assistance with this.,Cancellation
+602,"Please help, charged twice for the same payment Please resolve this.",Billing & Payment
+603,Can you help? want to know available plans This needs to be fixed.,General Inquiry
+604,Could you resolve this: getting an error message I need assistance with this.,Technical Issue
+605,how does the service work Can you check this for me?,General Inquiry
+606,want more information about the product This needs to be fixed.,General Inquiry
+607,"Please help, refunded amount is incorrect Please provide a solution.",Refund
+608,I would like to report that tracking has not updated Please provide a solution.,Delivery
+609,I want to report that need information about services Kindly help me resolve the issue.,General Inquiry
+610,I need assistance because product has a defect Can you check this for me?,Product Issue
+611,incorrect invoice charge Can you check this for me?,Billing & Payment
+612,Could you resolve this: requested refund but have not received it Kindly help me resolve the issue.,Refund
+613,refunded amount is incorrect Please provide a solution.,Refund
+614,I need assistance because need information about my order Can you investigate this?,General Inquiry
+615,"Please help, page keeps refreshing Kindly help me resolve the issue.",Technical Issue
+616,I need assistance because product stopped working quickly Kindly help me resolve the issue.,Product Issue
+617,Could you resolve this: package says delivered but was not received Can you investigate this?,Delivery
+618,I need assistance because product arrived damaged Kindly help me resolve the issue.,Product Issue
+619,"Please help, a feature is not working I would appreciate your help.",Technical Issue
+620,I want to report that received a different product Can you investigate this?,Product Issue
+621,My issue is that charged a different amount Please resolve this.,Billing & Payment
+622,Can you help? need information about my order I need assistance with this.,General Inquiry
+623,need to cancel before shipping Please provide a solution.,Cancellation
+624,I need assistance because refund is missing from bank account Please look into it.,Refund
+625,I want to report that cannot log in.,Account & Login
+626,I am facing this problem: package is stuck with courier Kindly help me resolve the issue.,Delivery
+627,Can you help? cannot upload a file Please provide a solution.,Technical Issue
+628,I am facing this problem: want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+629,Can you help? need help with pending refund Please look into it.,Refund
+630,Customer support needed: cancellation option is not working Please provide a solution.,Cancellation
+631,I need assistance because package says delivered but was not received Can you investigate this?,Delivery
+632,My issue is that cannot access account from a new device Please look into it.,Account & Login
+633,delivery is later than promised This needs to be fixed.,Delivery
+634,"Please help, want to cancel order Kindly help me resolve the issue.",Cancellation
+635,"Please help, screen is displaying incorrectly I would appreciate your help.",Technical Issue
+636,Customer support needed: requested cancellation but order is still active I need assistance with this.,Cancellation
+637,I need assistance because order has not been delivered.,Delivery
+638,want to change registered email This needs to be fixed.,Account & Login
+639,I am facing this problem: refund is missing from bank account Please look into it.,Refund
+640,I want to report that delivery is later than promised This needs to be fixed.,Delivery
+641,I need assistance because payment will not go through Can you investigate this?,Billing & Payment
+642,I want to report that want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+643,Could you resolve this: need general information before ordering Please look into it.,General Inquiry
+644,Customer support needed: delivery address was not followed I would appreciate your help.,Delivery
+645,My issue is that delivery is later than promised This needs to be fixed.,Delivery
+646,Can you help? charged twice for the same payment This needs to be fixed.,Billing & Payment
+647,Could you resolve this: delivery address was not followed I would appreciate your help.,Delivery
+648,refund is still pending Please resolve this.,Refund
+649,Could you resolve this: cannot log in.,Account & Login
+650,Can you help? password reset email is not arriving Can you investigate this?,Account & Login
+651,"Please help, need to cancel before shipping Please provide a solution.",Cancellation
+652,I need assistance because wrong amount charged.,Billing & Payment
+653,My issue is that account is locked Please provide a solution.,Account & Login
+654,I would like to report that payment will not go through Can you investigate this?,Billing & Payment
+655,Customer support needed: item arrived broken I need assistance with this.,Product Issue
+656,My issue is that payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+657,I am facing this problem: how can I cancel my purchase I need assistance with this.,Cancellation
+658,payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+659,Customer support needed: page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+660,Could you resolve this: cancellation option is not working Can you check this for me?,Cancellation
+661,Customer support needed: cannot upload a file Can you check this for me?,Technical Issue
+662,account is locked Can you check this for me?,Account & Login
+663,Could you resolve this: how can I cancel my purchase I need assistance with this.,Cancellation
+664,"Please help, unexpected fee on bill.",Billing & Payment
+665,I would like to report that app freezes during checkout Can you check this for me?,Technical Issue
+666,I need assistance because need general information before ordering Please look into it.,General Inquiry
+667,I am facing this problem: need to cancel before shipping Please provide a solution.,Cancellation
+668,I need assistance because product has visible damage Please look into it.,Product Issue
+669,I need assistance because package is stuck with courier Kindly help me resolve the issue.,Delivery
+670,I want to report that item does not work as described This needs to be fixed.,Product Issue
+671,I need assistance because cannot log in.,Account & Login
+672,I am facing this problem: package is stuck with courier.,Delivery
+673,Can you help? product has a defect Please provide a solution.,Product Issue
+674,I would like to report that application keeps crashing.,Technical Issue
+675,My issue is that screen is displaying incorrectly Please look into it.,Technical Issue
+676,Customer support needed: product quality is poor This needs to be fixed.,Product Issue
+677,"Please help, delivery is later than promised This needs to be fixed.",Delivery
+678,Could you resolve this: want to know support hours Can you check this for me?,General Inquiry
+679,My issue is that login credentials are rejected Please look into it.,Account & Login
+680,"Please help, a feature is not working Please look into it.",Technical Issue
+681,I would like to report that item does not work as described Please resolve this.,Product Issue
+682,My issue is that refund was processed for wrong amount This needs to be fixed.,Refund
+683,"Please help, charged a different amount Please resolve this.",Billing & Payment
+684,I am facing this problem: tracking has not updated Please provide a solution.,Delivery
+685,login credentials are rejected Please look into it.,Account & Login
+686,"Please help, package is stuck with courier Kindly help me resolve the issue.",Delivery
+687,I would like to report that item arrived broken Can you investigate this?,Product Issue
+688,I need assistance because unclear charge on invoice Please provide a solution.,Billing & Payment
+689,Customer support needed: unclear charge on invoice Please provide a solution.,Billing & Payment
+690,I would like to report that want to find terms and conditions Can you investigate this?,General Inquiry
+691,I need assistance because have a question about features Please look into it.,General Inquiry
+692,product has visible damage I would appreciate your help.,Product Issue
+693,Customer support needed: payment will not go through Can you investigate this?,Billing & Payment
+694,Can you help? product stopped working quickly.,Product Issue
+695,product arrived damaged Kindly help me resolve the issue.,Product Issue
+696,I would like to report that payment will not go through I need assistance with this.,Billing & Payment
+697,Can you help? how can I cancel my purchase Can you investigate this?,Cancellation
+698,I would like to report that how can I cancel my purchase Can you investigate this?,Cancellation
+699,My issue is that page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+700,I need assistance because incorrect invoice charge Please provide a solution.,Billing & Payment
+701,Could you resolve this: incorrect billing information Please look into it.,Billing & Payment
+702,I want to report that login credentials are rejected Please look into it.,Account & Login
+703,I am facing this problem: requested cancellation but order is still active I need assistance with this.,Cancellation
+704,I am facing this problem: need information about services.,General Inquiry
+705,I am facing this problem: refund is still pending Please resolve this.,Refund
+706,"Please help, delivery address was not followed I would appreciate your help.",Delivery
+707,Customer support needed: how can I cancel my purchase Can you investigate this?,Cancellation
+708,Customer support needed: website is not loading properly This needs to be fixed.,Technical Issue
+709,Customer support needed: unexpected fee on bill.,Billing & Payment
+710,I want to report that unable to verify account I need assistance with this.,Account & Login
+711,Can you help? account is locked Please provide a solution.,Account & Login
+712,My issue is that account details will not update Kindly help me resolve the issue.,Account & Login
+713,I want to report that delivery address was not followed I would appreciate your help.,Delivery
+714,Customer support needed: verification code is not working Please provide a solution.,Account & Login
+715,Customer support needed: incorrect invoice charge Please provide a solution.,Billing & Payment
+716,I would like to report that incorrect invoice charge Can you check this for me?,Billing & Payment
+717,delivery address was not followed Please look into it.,Delivery
+718,I am facing this problem: want to check refund status Kindly help me resolve the issue.,Refund
+719,My issue is that want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+720,Can you help? requested cancellation but order is still active I need assistance with this.,Cancellation
+721,I want to report that package is stuck with courier.,Delivery
+722,Can you help? incorrect billing information Please look into it.,Billing & Payment
+723,I want to report that delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+724,I need assistance because delivery is later than promised This needs to be fixed.,Delivery
+725,I would like to report that cancellation option is not working Can you check this for me?,Cancellation
+726,I want to report that want to cancel booking This needs to be fixed.,Cancellation
+727,refund was processed for wrong amount Please resolve this.,Refund
+728,I want to report that delivery address was not followed Please look into it.,Delivery
+729,I need assistance because want to know available plans Please resolve this.,General Inquiry
+730,My issue is that product quality is poor This needs to be fixed.,Product Issue
+731,Can you help? cannot log in.,Account & Login
+732,I need assistance because need information about my order I need assistance with this.,General Inquiry
+733,"Please help, cancelled order money was not returned Can you check this for me?",Refund
+734,I am facing this problem: cancelled order money was not returned Please provide a solution.,Refund
+735,I would like to report that incorrect billing information I would appreciate your help.,Billing & Payment
+736,"Please help, want to cancel order.",Cancellation
+737,I would like to report that account details will not update.,Account & Login
+738,My issue is that have a question about features Please look into it.,General Inquiry
+739,I need assistance because charged a different amount Please resolve this.,Billing & Payment
+740,"Please help, need information about services Kindly help me resolve the issue.",General Inquiry
+741,My issue is that incorrect billing information I would appreciate your help.,Billing & Payment
+742,Could you resolve this: want to change registered email This needs to be fixed.,Account & Login
+743,I want to report that app freezes during checkout Can you check this for me?,Technical Issue
+744,Customer support needed: requested refund but have not received it Kindly help me resolve the issue.,Refund
+745,Customer support needed: need help cancelling service I would appreciate your help.,Cancellation
+746,unable to verify account I need assistance with this.,Account & Login
+747,My issue is that package says delivered but was not received Can you investigate this?,Delivery
+748,I am facing this problem: received a different product I need assistance with this.,Product Issue
+749,I would like to report that refund was processed for wrong amount This needs to be fixed.,Refund
+750,Can you help? screen is displaying incorrectly Please look into it.,Technical Issue
+751,I would like to report that requested refund but have not received it.,Refund
+752,Customer support needed: need general information before ordering I would appreciate your help.,General Inquiry
+753,"Please help, have a question about features Please look into it.",General Inquiry
+754,I need assistance because courier has not contacted me Please provide a solution.,Delivery
+755,Can you help? want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+756,I want to report that need help with pending refund I would appreciate your help.,Refund
+757,I need assistance because a feature is not working I would appreciate your help.,Technical Issue
+758,Could you resolve this: want to check refund status.,Refund
+759,Customer support needed: product has visible damage I would appreciate your help.,Product Issue
+760,I want to report that password reset email is not arriving Can you investigate this?,Account & Login
+761,My issue is that need information about services Kindly help me resolve the issue.,General Inquiry
+762,Customer support needed: application keeps crashing.,Technical Issue
+763,Could you resolve this: account details will not update.,Account & Login
+764,Customer support needed: cannot upload a file Please provide a solution.,Technical Issue
+765,I would like to report that delivery is later than promised Please resolve this.,Delivery
+766,My issue is that promised refund has not arrived I need assistance with this.,Refund
+767,Customer support needed: payment deducted but still pending I would appreciate your help.,Billing & Payment
+768,My issue is that wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+769,Could you resolve this: product has a defect Please provide a solution.,Product Issue
+770,I need assistance because product stopped working quickly.,Product Issue
+771,Could you resolve this: want to change registered email Please resolve this.,Account & Login
+772,"Please help, password reset email is not arriving I need assistance with this.",Account & Login
+773,Can you help? cancellation option is not working Please provide a solution.,Cancellation
+774,I need assistance because want to cancel subscription Please resolve this.,Cancellation
+775,I would like to report that tracking has not updated Can you check this for me?,Delivery
+776,Could you resolve this: item arrived broken I need assistance with this.,Product Issue
+777,I want to report that want to cancel subscription Please resolve this.,Cancellation
+778,My issue is that want to cancel order.,Cancellation
+779,My issue is that want to change registered email This needs to be fixed.,Account & Login
+780,I am facing this problem: requested cancellation but order is still active Can you investigate this?,Cancellation
+781,My issue is that payment deducted but still pending Please look into it.,Billing & Payment
+782,Customer support needed: incorrect billing information I would appreciate your help.,Billing & Payment
+783,I want to report that product quality is poor Please resolve this.,Product Issue
+784,wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+785,I need assistance because want more information about the product Please resolve this.,General Inquiry
+786,I need assistance because delivery address was not followed Please look into it.,Delivery
+787,Could you resolve this: account details will not update Kindly help me resolve the issue.,Account & Login
+788,cannot log in Kindly help me resolve the issue.,Account & Login
+789,I would like to report that delivery address was not followed Please look into it.,Delivery
+790,Could you resolve this: courier has not contacted me Can you check this for me?,Delivery
+791,I am facing this problem: package says delivered but was not received I need assistance with this.,Delivery
+792,Can you help? delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+793,I am facing this problem: want to know available plans Please resolve this.,General Inquiry
+794,I would like to report that service stopped working after an update I need assistance with this.,Technical Issue
+795,Can you help? application is extremely slow This needs to be fixed.,Technical Issue
+796,I am facing this problem: received only part of the refund I need assistance with this.,Refund
+797,I need assistance because refund is still pending This needs to be fixed.,Refund
+798,"Please help, service stopped working after an update I need assistance with this.",Technical Issue
+799,I want to report that cannot upload a file Please provide a solution.,Technical Issue
+800,I need assistance because application is extremely slow Please resolve this.,Technical Issue
+801,I would like to report that how does the service work Can you check this for me?,General Inquiry
+802,I am facing this problem: forgot password and cannot reset it Please resolve this.,Account & Login
+803,My issue is that want to cancel subscription Please resolve this.,Cancellation
+804,Customer support needed: received a different product Can you investigate this?,Product Issue
+805,Could you resolve this: unable to verify account I need assistance with this.,Account & Login
+806,I want to report that tracking has not updated Can you check this for me?,Delivery
+807,"Please help, received a different product I need assistance with this.",Product Issue
+808,Can you help? need information about my order Can you investigate this?,General Inquiry
+809,I would like to report that want to know support hours Can you check this for me?,General Inquiry
+810,"Please help, tracking has not updated Please provide a solution.",Delivery
+811,Can you help? need help with pending refund I would appreciate your help.,Refund
+812,I am facing this problem: package says delivered but was not received Can you investigate this?,Delivery
+813,I am facing this problem: refund is missing from bank account I would appreciate your help.,Refund
+814,Could you resolve this: verification code is not working Can you check this for me?,Account & Login
+815,"Please help, cancelled order money was not returned Please provide a solution.",Refund
+816,Customer support needed: application is extremely slow This needs to be fixed.,Technical Issue
+817,Customer support needed: item arrived with missing parts I would appreciate your help.,Product Issue
+818,Can you help? login credentials are rejected I would appreciate your help.,Account & Login
+819,I am facing this problem: service stopped working after an update Can you investigate this?,Technical Issue
+820,forgot password and cannot reset it This needs to be fixed.,Account & Login
+821,I would like to report that package says delivered but was not received Can you investigate this?,Delivery
+822,I would like to report that password reset email is not arriving I need assistance with this.,Account & Login
+823,"Please help, need help with pending refund I would appreciate your help.",Refund
+824,"Please help, verification code is not working Please provide a solution.",Account & Login
+825,incorrect billing information Please look into it.,Billing & Payment
+826,I would like to report that accidentally placed order and want to cancel Please look into it.,Cancellation
+827,Customer support needed: a feature is not working I would appreciate your help.,Technical Issue
+828,My issue is that cancellation option is not working Can you check this for me?,Cancellation
+829,received a different product Can you investigate this?,Product Issue
+830,account is locked Please provide a solution.,Account & Login
+831,delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+832,Can you help? product has a defect Can you check this for me?,Product Issue
+833,Could you resolve this: unexpected fee on bill.,Billing & Payment
+834,I am facing this problem: want to cancel subscription Please resolve this.,Cancellation
+835,I want to report that screen is displaying incorrectly I would appreciate your help.,Technical Issue
+836,I need assistance because wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+837,I want to report that courier has not contacted me Can you check this for me?,Delivery
+838,need information about services Kindly help me resolve the issue.,General Inquiry
+839,Could you resolve this: product stopped working quickly Kindly help me resolve the issue.,Product Issue
+840,I need assistance because how can I cancel my purchase Can you investigate this?,Cancellation
+841,I want to report that delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+842,My issue is that password reset email is not arriving Can you investigate this?,Account & Login
+843,My issue is that application is extremely slow This needs to be fixed.,Technical Issue
+844,Customer support needed: specifications do not match listing Can you check this for me?,Product Issue
+845,Customer support needed: courier has not contacted me Please provide a solution.,Delivery
+846,I need assistance because incorrect invoice charge Can you check this for me?,Billing & Payment
+847,"Please help, application keeps crashing.",Technical Issue
+848,I want to report that item arrived broken Can you investigate this?,Product Issue
+849,Customer support needed: application keeps crashing Kindly help me resolve the issue.,Technical Issue
+850,Can you help? charged a different amount Please resolve this.,Billing & Payment
+851,Can you help? want to cancel order Kindly help me resolve the issue.,Cancellation
+852,Customer support needed: need to cancel before shipping Can you check this for me?,Cancellation
+853,account details will not update.,Account & Login
+854,Could you resolve this: package is stuck with courier.,Delivery
+855,"Please help, login credentials are rejected I would appreciate your help.",Account & Login
+856,Can you help? account details will not update Kindly help me resolve the issue.,Account & Login
+857,I need assistance because want to cancel order.,Cancellation
+858,Customer support needed: refunded amount is incorrect Can you check this for me?,Refund
+859,Customer support needed: want to check refund status.,Refund
+860,app freezes during checkout Please provide a solution.,Technical Issue
+861,Can you help? refund was processed for wrong amount Please resolve this.,Refund
+862,Can you help? cannot upload a file Can you check this for me?,Technical Issue
+863,My issue is that payment will not go through Can you investigate this?,Billing & Payment
+864,Can you help? order has not been delivered.,Delivery
+865,Can you help? received only part of the refund Can you investigate this?,Refund
+866,I would like to report that product arrived damaged.,Product Issue
+867,I am facing this problem: want to know when package will arrive Please look into it.,Delivery
+868,Can you help? cannot access account from a new device I would appreciate your help.,Account & Login
+869,Could you resolve this: screen is displaying incorrectly Please look into it.,Technical Issue
+870,I want to report that package is stuck with courier Kindly help me resolve the issue.,Delivery
+871,I would like to report that charged twice for the same payment Please resolve this.,Billing & Payment
+872,My issue is that want more information about the product Please resolve this.,General Inquiry
+873,Can you help? want to cancel booking This needs to be fixed.,Cancellation
+874,I need assistance because want to cancel order Kindly help me resolve the issue.,Cancellation
+875,Could you resolve this: need to cancel before shipping Please provide a solution.,Cancellation
+876,Could you resolve this: website is not loading properly This needs to be fixed.,Technical Issue
+877,I would like to report that login credentials are rejected I would appreciate your help.,Account & Login
+878,I need assistance because want to know available plans This needs to be fixed.,General Inquiry
+879,want to know support hours Please provide a solution.,General Inquiry
+880,Can you help? promised refund has not arrived I need assistance with this.,Refund
+881,"Please help, forgot password and cannot reset it Please resolve this.",Account & Login
+882,forgot password and cannot reset it Please resolve this.,Account & Login
+883,"Please help, payment failed despite sufficient balance Can you investigate this?",Billing & Payment
+884,My issue is that delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+885,Customer support needed: login credentials are rejected Please look into it.,Account & Login
+886,I am facing this problem: need help cancelling service I would appreciate your help.,Cancellation
+887,My issue is that cancelled order money was not returned Can you check this for me?,Refund
+888,Customer support needed: want more information about the product Please resolve this.,General Inquiry
+889,want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+890,I want to report that need help with pending refund Please look into it.,Refund
+891,Can you help? want to know available plans Please resolve this.,General Inquiry
+892,Customer support needed: cannot access account from a new device Please look into it.,Account & Login
+893,Customer support needed: received only part of the refund I need assistance with this.,Refund
+894,I want to report that charged a different amount Please resolve this.,Billing & Payment
+895,I am facing this problem: tracking has not updated Can you check this for me?,Delivery
+896,My issue is that refunded amount is incorrect Please provide a solution.,Refund
+897,I would like to report that forgot password and cannot reset it This needs to be fixed.,Account & Login
+898,refund is still pending This needs to be fixed.,Refund
+899,I want to report that want to find terms and conditions I need assistance with this.,General Inquiry
+900,Could you resolve this: want to cancel subscription This needs to be fixed.,Cancellation
+901,Can you help? tracking has not updated Please provide a solution.,Delivery
+902,"Please help, charged twice for the same payment This needs to be fixed.",Billing & Payment
+903,I need assistance because unable to verify account Can you investigate this?,Account & Login
+904,"Please help, incorrect invoice charge Can you check this for me?",Billing & Payment
+905,My issue is that password reset email is not arriving I need assistance with this.,Account & Login
+906,I would like to report that accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+907,payment will not go through Can you investigate this?,Billing & Payment
+908,Customer support needed: password reset email is not arriving I need assistance with this.,Account & Login
+909,My issue is that need help with pending refund Please look into it.,Refund
+910,Could you resolve this: courier has not contacted me Please provide a solution.,Delivery
+911,Can you help? incorrect invoice charge Please provide a solution.,Billing & Payment
+912,I want to report that have a question about features I would appreciate your help.,General Inquiry
+913,My issue is that unable to verify account I need assistance with this.,Account & Login
+914,Could you resolve this: need help with pending refund Please look into it.,Refund
+915,"Please help, promised refund has not arrived Can you investigate this?",Refund
+916,Can you help? payment deducted but still pending Please look into it.,Billing & Payment
+917,I am facing this problem: app freezes during checkout Please provide a solution.,Technical Issue
+918,Could you resolve this: tracking has not updated Please provide a solution.,Delivery
+919,Customer support needed: need general information before ordering Please look into it.,General Inquiry
+920,"Please help, app freezes during checkout Please provide a solution.",Technical Issue
+921,unable to verify account Can you investigate this?,Account & Login
+922,I am facing this problem: delivery address was not followed Please look into it.,Delivery
+923,application is extremely slow This needs to be fixed.,Technical Issue
+924,My issue is that refund is still pending Please resolve this.,Refund
+925,I want to report that unable to verify account Can you investigate this?,Account & Login
+926,Customer support needed: courier has not contacted me Can you check this for me?,Delivery
+927,I need assistance because want an explanation of service options.,General Inquiry
+928,Customer support needed: received a different product I need assistance with this.,Product Issue
+929,I would like to report that order has not been delivered Kindly help me resolve the issue.,Delivery
+930,Customer support needed: received the wrong package This needs to be fixed.,Delivery
+931,Could you resolve this: accidentally placed order and want to cancel Please look into it.,Cancellation
+932,I would like to report that package says delivered but was not received I need assistance with this.,Delivery
+933,My issue is that need general information before ordering I would appreciate your help.,General Inquiry
+934,I want to report that how does the service work Please provide a solution.,General Inquiry
+935,I need assistance because received a different product Can you investigate this?,Product Issue
+936,My issue is that a feature is not working Please look into it.,Technical Issue
+937,Could you resolve this: cancellation option is not working Please provide a solution.,Cancellation
+938,cancellation option is not working Please provide a solution.,Cancellation
+939,Could you resolve this: account is locked Please provide a solution.,Account & Login
+940,My issue is that received only part of the refund Can you investigate this?,Refund
+941,"Please help, want an explanation of service options.",General Inquiry
+942,I need assistance because refund was processed for wrong amount This needs to be fixed.,Refund
+943,want to cancel order Kindly help me resolve the issue.,Cancellation
+944,I would like to report that cannot log in.,Account & Login
+945,Can you help? accidentally placed order and want to cancel Please look into it.,Cancellation
+946,"Please help, want more information about the product Please resolve this.",General Inquiry
+947,My issue is that charged twice for the same payment Please resolve this.,Billing & Payment
+948,I would like to report that cancelled order money was not returned Please provide a solution.,Refund
+949,My issue is that forgot password and cannot reset it This needs to be fixed.,Account & Login
+950,how does the service work Please provide a solution.,General Inquiry
+951,"Please help, cannot upload a file Can you check this for me?",Technical Issue
+952,Could you resolve this: received a different product Can you investigate this?,Product Issue
+953,getting an error message I need assistance with this.,Technical Issue
+954,I want to report that payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+955,I am facing this problem: need information about my order I need assistance with this.,General Inquiry
+956,I am facing this problem: product arrived damaged Kindly help me resolve the issue.,Product Issue
+957,"Please help, need help cancelling service Please look into it.",Cancellation
+958,Customer support needed: cannot access account from a new device I would appreciate your help.,Account & Login
+959,I am facing this problem: cannot access account from a new device Please look into it.,Account & Login
+960,I am facing this problem: courier has not contacted me Can you check this for me?,Delivery
+961,Could you resolve this: screen is displaying incorrectly I would appreciate your help.,Technical Issue
+962,I want to report that charged twice for the same payment Please resolve this.,Billing & Payment
+963,I am facing this problem: cancellation option is not working Can you check this for me?,Cancellation
+964,I would like to report that product has a defect Can you check this for me?,Product Issue
+965,I want to report that package says delivered but was not received Can you investigate this?,Delivery
+966,My issue is that how does the service work Please provide a solution.,General Inquiry
+967,I am facing this problem: promised refund has not arrived Can you investigate this?,Refund
+968,Customer support needed: delivery is later than promised Please resolve this.,Delivery
+969,My issue is that want to find terms and conditions I need assistance with this.,General Inquiry
+970,My issue is that cannot log in Kindly help me resolve the issue.,Account & Login
+971,I want to report that application keeps crashing Kindly help me resolve the issue.,Technical Issue
+972,I want to report that specifications do not match listing Please provide a solution.,Product Issue
+973,I need assistance because verification code is not working Please provide a solution.,Account & Login
+974,I would like to report that need information about services Kindly help me resolve the issue.,General Inquiry
+975,"Please help, specifications do not match listing Please provide a solution.",Product Issue
+976,Customer support needed: want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+977,Customer support needed: app freezes during checkout Please provide a solution.,Technical Issue
+978,My issue is that how can I cancel my purchase Can you investigate this?,Cancellation
+979,My issue is that refund is still pending This needs to be fixed.,Refund
+980,"Please help, want to check refund status Kindly help me resolve the issue.",Refund
+981,I want to report that want to know when package will arrive I would appreciate your help.,Delivery
+982,"Please help, unable to verify account Can you investigate this?",Account & Login
+983,"Please help, how can I cancel my purchase I need assistance with this.",Cancellation
+984,I want to report that refunded amount is incorrect Can you check this for me?,Refund
+985,Customer support needed: service stopped working after an update I need assistance with this.,Technical Issue
+986,"Please help, want to find terms and conditions I need assistance with this.",General Inquiry
+987,I want to report that need to cancel before shipping Can you check this for me?,Cancellation
+988,I am facing this problem: need help with pending refund Please look into it.,Refund
+989,I want to report that product has visible damage Please look into it.,Product Issue
+990,I want to report that want to cancel subscription This needs to be fixed.,Cancellation
+991,"Please help, page keeps refreshing.",Technical Issue
+992,My issue is that need information about my order I need assistance with this.,General Inquiry
+993,charged twice for the same payment Please resolve this.,Billing & Payment
+994,I need assistance because account details will not update Kindly help me resolve the issue.,Account & Login
+995,Can you help? cancellation option is not working Can you check this for me?,Cancellation
+996,Could you resolve this: product has visible damage I would appreciate your help.,Product Issue
+997,Could you resolve this: want to check refund status Kindly help me resolve the issue.,Refund
+998,I would like to report that application is extremely slow Please resolve this.,Technical Issue
+999,I would like to report that requested cancellation but order is still active Can you investigate this?,Cancellation
+1000,Can you help? need information about services Kindly help me resolve the issue.,General Inquiry
+1001,I need assistance because app freezes during checkout Please provide a solution.,Technical Issue
+1002,"Please help, order has not been delivered Kindly help me resolve the issue.",Delivery
+1003,Can you help? payment will not go through I need assistance with this.,Billing & Payment
+1004,Customer support needed: item does not work as described Please resolve this.,Product Issue
+1005,My issue is that received a different product Can you investigate this?,Product Issue
+1006,Customer support needed: specifications do not match listing Please provide a solution.,Product Issue
+1007,need help cancelling service I would appreciate your help.,Cancellation
+1008,My issue is that product arrived damaged Kindly help me resolve the issue.,Product Issue
+1009,I am facing this problem: item does not work as described Please resolve this.,Product Issue
+1010,have a question about features I would appreciate your help.,General Inquiry
+1011,I am facing this problem: want to cancel order Kindly help me resolve the issue.,Cancellation
+1012,Can you help? want to change registered email Please resolve this.,Account & Login
+1013,I would like to report that unclear charge on invoice Please provide a solution.,Billing & Payment
+1014,account details will not update Kindly help me resolve the issue.,Account & Login
+1015,Customer support needed: refund is missing from bank account I would appreciate your help.,Refund
+1016,I want to report that want to check refund status Kindly help me resolve the issue.,Refund
+1017,I am facing this problem: accidentally placed order and want to cancel Please look into it.,Cancellation
+1018,My issue is that need help cancelling service I would appreciate your help.,Cancellation
+1019,I need assistance because payment deducted but still pending Please look into it.,Billing & Payment
+1020,Can you help? specifications do not match listing Please provide a solution.,Product Issue
+1021,I am facing this problem: page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+1022,I am facing this problem: how does the service work Please provide a solution.,General Inquiry
+1023,Can you help? courier has not contacted me Can you check this for me?,Delivery
+1024,I would like to report that specifications do not match listing Please provide a solution.,Product Issue
+1025,item arrived with missing parts Please look into it.,Product Issue
+1026,Customer support needed: product has visible damage Please look into it.,Product Issue
+1027,Could you resolve this: unclear charge on invoice Please provide a solution.,Billing & Payment
+1028,page keeps refreshing.,Technical Issue
+1029,I need assistance because item arrived broken I need assistance with this.,Product Issue
+1030,I want to report that item arrived with missing parts Please look into it.,Product Issue
+1031,I need assistance because screen is displaying incorrectly I would appreciate your help.,Technical Issue
+1032,My issue is that item arrived broken I need assistance with this.,Product Issue
+1033,I would like to report that product stopped working quickly.,Product Issue
+1034,product quality is poor This needs to be fixed.,Product Issue
+1035,"Please help, application is extremely slow Please resolve this.",Technical Issue
+1036,I need assistance because service stopped working after an update Can you investigate this?,Technical Issue
+1037,Customer support needed: received the wrong package Please resolve this.,Delivery
+1038,Can you help? page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+1039,Can you help? getting an error message Can you investigate this?,Technical Issue
+1040,Can you help? refund is still pending This needs to be fixed.,Refund
+1041,I would like to report that page keeps refreshing.,Technical Issue
+1042,I want to report that account is locked Can you check this for me?,Account & Login
+1043,Could you resolve this: refunded amount is incorrect Can you check this for me?,Refund
+1044,Can you help? package says delivered but was not received Can you investigate this?,Delivery
+1045,I am facing this problem: application is extremely slow This needs to be fixed.,Technical Issue
+1046,Could you resolve this: tracking has not updated Can you check this for me?,Delivery
+1047,product stopped working quickly Kindly help me resolve the issue.,Product Issue
+1048,I want to report that how can I cancel my purchase Can you investigate this?,Cancellation
+1049,"Please help, cannot upload a file Please provide a solution.",Technical Issue
+1050,delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+1051,Could you resolve this: product has a defect Can you check this for me?,Product Issue
+1052,getting an error message Can you investigate this?,Technical Issue
+1053,Could you resolve this: order has not been delivered Kindly help me resolve the issue.,Delivery
+1054,"Please help, wrong amount charged Kindly help me resolve the issue.",Billing & Payment
+1055,I need assistance because package is stuck with courier.,Delivery
+1056,I want to report that item arrived with missing parts I would appreciate your help.,Product Issue
+1057,My issue is that requested cancellation but order is still active I need assistance with this.,Cancellation
+1058,I need assistance because requested refund but have not received it Kindly help me resolve the issue.,Refund
+1059,I would like to report that login credentials are rejected Please look into it.,Account & Login
+1060,Could you resolve this: want to know when package will arrive I would appreciate your help.,Delivery
+1061,Could you resolve this: app freezes during checkout Can you check this for me?,Technical Issue
+1062,I need assistance because application is extremely slow This needs to be fixed.,Technical Issue
+1063,I want to report that unclear charge on invoice Can you check this for me?,Billing & Payment
+1064,I need assistance because need help cancelling service I would appreciate your help.,Cancellation
+1065,Can you help? want an explanation of service options.,General Inquiry
+1066,I am facing this problem: payment deducted but still pending I would appreciate your help.,Billing & Payment
+1067,"Please help, need information about services.",General Inquiry
+1068,"Please help, package is stuck with courier.",Delivery
+1069,Could you resolve this: need information about services Kindly help me resolve the issue.,General Inquiry
+1070,I am facing this problem: want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+1071,Customer support needed: forgot password and cannot reset it This needs to be fixed.,Account & Login
+1072,I would like to report that want more information about the product This needs to be fixed.,General Inquiry
+1073,"Please help, want to know available plans Please resolve this.",General Inquiry
+1074,I would like to report that cannot access account from a new device Please look into it.,Account & Login
+1075,Customer support needed: refunded amount is incorrect Please provide a solution.,Refund
+1076,"Please help, product has visible damage Please look into it.",Product Issue
+1077,Can you help? payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+1078,My issue is that courier has not contacted me Can you check this for me?,Delivery
+1079,I want to report that service stopped working after an update I need assistance with this.,Technical Issue
+1080,I would like to report that refunded amount is incorrect Can you check this for me?,Refund
+1081,I need assistance because want to stop recurring subscription.,Cancellation
+1082,Customer support needed: page keeps refreshing.,Technical Issue
+1083,I need assistance because need help with pending refund I would appreciate your help.,Refund
+1084,I need assistance because cannot upload a file Please provide a solution.,Technical Issue
+1085,I want to report that account is locked Please provide a solution.,Account & Login
+1086,I want to report that received only part of the refund Can you investigate this?,Refund
+1087,I need assistance because received only part of the refund Can you investigate this?,Refund
+1088,My issue is that product has visible damage Please look into it.,Product Issue
+1089,I need assistance because forgot password and cannot reset it Please resolve this.,Account & Login
+1090,wrong amount charged.,Billing & Payment
+1091,"Please help, website is not loading properly This needs to be fixed.",Technical Issue
+1092,I would like to report that cannot log in Kindly help me resolve the issue.,Account & Login
+1093,I would like to report that courier has not contacted me Please provide a solution.,Delivery
+1094,Could you resolve this: accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+1095,"Please help, getting an error message I need assistance with this.",Technical Issue
+1096,Customer support needed: want to cancel booking Please resolve this.,Cancellation
+1097,package says delivered but was not received I need assistance with this.,Delivery
+1098,Customer support needed: cannot log in.,Account & Login
+1099,I want to report that want to cancel booking Please resolve this.,Cancellation
+1100,Could you resolve this: password reset email is not arriving I need assistance with this.,Account & Login
+1101,I would like to report that website is not loading properly This needs to be fixed.,Technical Issue
+1102,Can you help? forgot password and cannot reset it This needs to be fixed.,Account & Login
+1103,Could you resolve this: refund is still pending This needs to be fixed.,Refund
+1104,Customer support needed: cannot log in Kindly help me resolve the issue.,Account & Login
+1105,I need assistance because want to know support hours Can you check this for me?,General Inquiry
+1106,I need assistance because refund was processed for wrong amount Please resolve this.,Refund
+1107,I would like to report that cancellation option is not working Please provide a solution.,Cancellation
+1108,Can you help? unclear charge on invoice Can you check this for me?,Billing & Payment
+1109,Can you help? a feature is not working Please look into it.,Technical Issue
+1110,Customer support needed: verification code is not working Can you check this for me?,Account & Login
+1111,Can you help? product arrived damaged.,Product Issue
+1112,I need assistance because want to check refund status.,Refund
+1113,I am facing this problem: promised refund has not arrived I need assistance with this.,Refund
+1114,Can you help? wrong amount charged.,Billing & Payment
+1115,"Please help, refund was processed for wrong amount Please resolve this.",Refund
+1116,Could you resolve this: need help with pending refund I would appreciate your help.,Refund
+1117,"Please help, product quality is poor Please resolve this.",Product Issue
+1118,I am facing this problem: want to cancel booking Please resolve this.,Cancellation
+1119,I want to report that how does the service work Can you check this for me?,General Inquiry
+1120,I want to report that want more information about the product This needs to be fixed.,General Inquiry
+1121,My issue is that refunded amount is incorrect Can you check this for me?,Refund
+1122,Can you help? a feature is not working I would appreciate your help.,Technical Issue
+1123,"Please help, accidentally placed order and want to cancel Please look into it.",Cancellation
+1124,My issue is that account details will not update.,Account & Login
+1125,I want to report that a feature is not working Please look into it.,Technical Issue
+1126,I need assistance because delivery is later than promised Please resolve this.,Delivery
+1127,Could you resolve this: payment will not go through Can you investigate this?,Billing & Payment
+1128,Can you help? want to cancel subscription This needs to be fixed.,Cancellation
+1129,I would like to report that want to know available plans Please resolve this.,General Inquiry
+1130,I need assistance because need to cancel before shipping Please provide a solution.,Cancellation
+1131,Customer support needed: want to cancel order Kindly help me resolve the issue.,Cancellation
+1132,I would like to report that incorrect invoice charge Please provide a solution.,Billing & Payment
+1133,Could you resolve this: password reset email is not arriving Can you investigate this?,Account & Login
+1134,I need assistance because want to cancel booking This needs to be fixed.,Cancellation
+1135,Could you resolve this: application keeps crashing Kindly help me resolve the issue.,Technical Issue
+1136,"Please help, need information about my order I need assistance with this.",General Inquiry
+1137,I want to report that account details will not update Kindly help me resolve the issue.,Account & Login
+1138,"Please help, item arrived broken Can you investigate this?",Product Issue
+1139,"Please help, want more information about the product This needs to be fixed.",General Inquiry
+1140,Could you resolve this: want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+1141,I need assistance because password reset email is not arriving Can you investigate this?,Account & Login
+1142,I would like to report that application keeps crashing Kindly help me resolve the issue.,Technical Issue
+1143,Customer support needed: want to know when package will arrive I would appreciate your help.,Delivery
+1144,Could you resolve this: incorrect invoice charge Can you check this for me?,Billing & Payment
+1145,I would like to report that product has a defect Please provide a solution.,Product Issue
+1146,Could you resolve this: want more information about the product Please resolve this.,General Inquiry
+1147,Customer support needed: forgot password and cannot reset it Please resolve this.,Account & Login
+1148,I would like to report that account details will not update Kindly help me resolve the issue.,Account & Login
+1149,I need assistance because cannot upload a file Can you check this for me?,Technical Issue
+1150,Could you resolve this: product arrived damaged.,Product Issue
+1151,Customer support needed: product has a defect Please provide a solution.,Product Issue
+1152,Can you help? service stopped working after an update I need assistance with this.,Technical Issue
+1153,I want to report that payment will not go through Can you investigate this?,Billing & Payment
+1154,Can you help? login credentials are rejected Please look into it.,Account & Login
+1155,"Please help, delivery is later than promised Please resolve this.",Delivery
+1156,I need assistance because want to find terms and conditions I need assistance with this.,General Inquiry
+1157,I need assistance because want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+1158,Could you resolve this: product stopped working quickly.,Product Issue
+1159,Can you help? app freezes during checkout Can you check this for me?,Technical Issue
+1160,cannot access account from a new device Please look into it.,Account & Login
+1161,My issue is that delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+1162,incorrect invoice charge Please provide a solution.,Billing & Payment
+1163,I am facing this problem: app freezes during checkout Can you check this for me?,Technical Issue
+1164,I need assistance because delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+1165,I need assistance because received the wrong package This needs to be fixed.,Delivery
+1166,My issue is that want to stop recurring subscription.,Cancellation
+1167,I would like to report that package is stuck with courier Kindly help me resolve the issue.,Delivery
+1168,Customer support needed: want to stop recurring subscription.,Cancellation
+1169,I would like to report that cancelled order money was not returned Can you check this for me?,Refund
+1170,I am facing this problem: want to change registered email Please resolve this.,Account & Login
+1171,order has not been delivered Kindly help me resolve the issue.,Delivery
+1172,My issue is that need information about my order Can you investigate this?,General Inquiry
+1173,item does not work as described This needs to be fixed.,Product Issue
+1174,I need assistance because want to change registered email This needs to be fixed.,Account & Login
+1175,I want to report that need to cancel before shipping Please provide a solution.,Cancellation
+1176,I would like to report that verification code is not working Can you check this for me?,Account & Login
+1177,"Please help, forgot password and cannot reset it This needs to be fixed.",Account & Login
+1178,Customer support needed: payment deducted but still pending Please look into it.,Billing & Payment
+1179,"Please help, package says delivered but was not received I need assistance with this.",Delivery
+1180,a feature is not working Please look into it.,Technical Issue
+1181,Can you help? package is stuck with courier.,Delivery
+1182,"Please help, refund was processed for wrong amount This needs to be fixed.",Refund
+1183,Could you resolve this: want to cancel subscription Please resolve this.,Cancellation
+1184,Can you help? payment will not go through Can you investigate this?,Billing & Payment
+1185,My issue is that want to check refund status Kindly help me resolve the issue.,Refund
+1186,Customer support needed: package is stuck with courier.,Delivery
+1187,Customer support needed: want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+1188,My issue is that need information about services.,General Inquiry
+1189,"Please help, need to cancel before shipping Can you check this for me?",Cancellation
+1190,Could you resolve this: cancelled order money was not returned Can you check this for me?,Refund
+1191,Customer support needed: getting an error message Can you investigate this?,Technical Issue
+1192,I want to report that refund was processed for wrong amount Please resolve this.,Refund
+1193,I am facing this problem: page keeps refreshing.,Technical Issue
+1194,Customer support needed: need information about services Kindly help me resolve the issue.,General Inquiry
+1195,I would like to report that product quality is poor This needs to be fixed.,Product Issue
+1196,My issue is that package says delivered but was not received I need assistance with this.,Delivery
+1197,Can you help? cannot access account from a new device Please look into it.,Account & Login
+1198,My issue is that wrong amount charged.,Billing & Payment
+1199,payment deducted but still pending I would appreciate your help.,Billing & Payment
+1200,I would like to report that item arrived broken I need assistance with this.,Product Issue
+1201,I would like to report that want to cancel booking This needs to be fixed.,Cancellation
+1202,Can you help? want to know support hours Please provide a solution.,General Inquiry
+1203,I am facing this problem: unexpected fee on bill.,Billing & Payment
+1204,I am facing this problem: how does the service work Can you check this for me?,General Inquiry
+1205,My issue is that have a question about features I would appreciate your help.,General Inquiry
+1206,Customer support needed: refund is still pending This needs to be fixed.,Refund
+1207,specifications do not match listing Can you check this for me?,Product Issue
+1208,I would like to report that product arrived damaged Kindly help me resolve the issue.,Product Issue
+1209,I need assistance because account details will not update.,Account & Login
+1210,"Please help, item does not work as described This needs to be fixed.",Product Issue
+1211,My issue is that item arrived broken Can you investigate this?,Product Issue
+1212,My issue is that specifications do not match listing Please provide a solution.,Product Issue
+1213,My issue is that want to know support hours Please provide a solution.,General Inquiry
+1214,Can you help? how does the service work Can you check this for me?,General Inquiry
+1215,I want to report that order has not been delivered Kindly help me resolve the issue.,Delivery
+1216,I would like to report that delivery is later than promised This needs to be fixed.,Delivery
+1217,My issue is that want to know support hours Can you check this for me?,General Inquiry
+1218,Customer support needed: package says delivered but was not received Can you investigate this?,Delivery
+1219,I need assistance because order has not been delivered Kindly help me resolve the issue.,Delivery
+1220,Can you help? cannot log in Kindly help me resolve the issue.,Account & Login
+1221,Customer support needed: refund was processed for wrong amount This needs to be fixed.,Refund
+1222,I would like to report that wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+1223,Customer support needed: how does the service work Can you check this for me?,General Inquiry
+1224,I want to report that cannot log in Kindly help me resolve the issue.,Account & Login
+1225,I need assistance because want to check refund status Kindly help me resolve the issue.,Refund
+1226,My issue is that requested cancellation but order is still active Can you investigate this?,Cancellation
+1227,"Please help, want to know available plans This needs to be fixed.",General Inquiry
+1228,Can you help? product has visible damage Please look into it.,Product Issue
+1229,I would like to report that verification code is not working Please provide a solution.,Account & Login
+1230,product stopped working quickly.,Product Issue
+1231,I want to report that how can I cancel my purchase I need assistance with this.,Cancellation
+1232,I am facing this problem: account details will not update Kindly help me resolve the issue.,Account & Login
+1233,"Please help, package says delivered but was not received Can you investigate this?",Delivery
+1234,Could you resolve this: need to cancel before shipping Can you check this for me?,Cancellation
+1235,I would like to report that refund is still pending This needs to be fixed.,Refund
+1236,I would like to report that item does not work as described This needs to be fixed.,Product Issue
+1237,"Please help, want to check refund status.",Refund
+1238,unclear charge on invoice Please provide a solution.,Billing & Payment
+1239,I am facing this problem: order has not been delivered.,Delivery
+1240,Can you help? cancelled order money was not returned Please provide a solution.,Refund
+1241,Could you resolve this: application is extremely slow This needs to be fixed.,Technical Issue
+1242,I want to report that wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+1243,Could you resolve this: unclear charge on invoice Can you check this for me?,Billing & Payment
+1244,Can you help? need to cancel before shipping Please provide a solution.,Cancellation
+1245,I would like to report that application is extremely slow This needs to be fixed.,Technical Issue
+1246,I am facing this problem: cannot log in Kindly help me resolve the issue.,Account & Login
+1247,Could you resolve this: package says delivered but was not received I need assistance with this.,Delivery
+1248,Could you resolve this: need information about my order Can you investigate this?,General Inquiry
+1249,Customer support needed: accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+1250,Could you resolve this: item arrived with missing parts Please look into it.,Product Issue
+1251,Can you help? account is locked Can you check this for me?,Account & Login
+1252,Could you resolve this: product arrived damaged Kindly help me resolve the issue.,Product Issue
+1253,I am facing this problem: product quality is poor This needs to be fixed.,Product Issue
+1254,My issue is that account is locked Can you check this for me?,Account & Login
+1255,promised refund has not arrived Can you investigate this?,Refund
+1256,My issue is that cancelled order money was not returned Please provide a solution.,Refund
+1257,Can you help? want to find terms and conditions Can you investigate this?,General Inquiry
+1258,Could you resolve this: app freezes during checkout Please provide a solution.,Technical Issue
+1259,My issue is that payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+1260,"Please help, payment deducted but still pending Please look into it.",Billing & Payment
+1261,My issue is that want to cancel order Kindly help me resolve the issue.,Cancellation
+1262,Customer support needed: need help with pending refund Please look into it.,Refund
+1263,I am facing this problem: product stopped working quickly.,Product Issue
+1264,I would like to report that received only part of the refund I need assistance with this.,Refund
+1265,Customer support needed: tracking has not updated Can you check this for me?,Delivery
+1266,I would like to report that website is not loading properly Please resolve this.,Technical Issue
+1267,"Please help, item arrived with missing parts Please look into it.",Product Issue
+1268,I want to report that charged a different amount This needs to be fixed.,Billing & Payment
+1269,Could you resolve this: want to cancel order Kindly help me resolve the issue.,Cancellation
+1270,unclear charge on invoice Can you check this for me?,Billing & Payment
+1271,want to know when package will arrive Please look into it.,Delivery
+1272,I am facing this problem: payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+1273,refunded amount is incorrect Can you check this for me?,Refund
+1274,I would like to report that unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+1275,I need assistance because received the wrong package Please resolve this.,Delivery
+1276,My issue is that refund is missing from bank account Please look into it.,Refund
+1277,I want to report that refund is still pending Please resolve this.,Refund
+1278,I would like to report that service stopped working after an update Can you investigate this?,Technical Issue
+1279,I would like to report that need help with pending refund I would appreciate your help.,Refund
+1280,I need assistance because unexpected fee on bill.,Billing & Payment
+1281,My issue is that unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+1282,I need assistance because account is locked Can you check this for me?,Account & Login
+1283,I want to report that requested cancellation but order is still active Can you investigate this?,Cancellation
+1284,want to check refund status Kindly help me resolve the issue.,Refund
+1285,I would like to report that need help with pending refund Please look into it.,Refund
+1286,I want to report that unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+1287,Customer support needed: product has a defect Can you check this for me?,Product Issue
+1288,My issue is that cannot log in.,Account & Login
+1289,Could you resolve this: want to know when package will arrive Please look into it.,Delivery
+1290,My issue is that package is stuck with courier Kindly help me resolve the issue.,Delivery
+1291,I would like to report that screen is displaying incorrectly I would appreciate your help.,Technical Issue
+1292,Could you resolve this: refund was processed for wrong amount This needs to be fixed.,Refund
+1293,I would like to report that need help cancelling service Please look into it.,Cancellation
+1294,I am facing this problem: product has visible damage Please look into it.,Product Issue
+1295,"Please help, application is extremely slow This needs to be fixed.",Technical Issue
+1296,Can you help? specifications do not match listing Can you check this for me?,Product Issue
+1297,I want to report that login credentials are rejected I would appreciate your help.,Account & Login
+1298,I am facing this problem: wrong amount charged.,Billing & Payment
+1299,I would like to report that unable to verify account Can you investigate this?,Account & Login
+1300,My issue is that received the wrong package This needs to be fixed.,Delivery
+1301,requested cancellation but order is still active I need assistance with this.,Cancellation
+1302,Could you resolve this: have a question about features Please look into it.,General Inquiry
+1303,My issue is that item does not work as described This needs to be fixed.,Product Issue
+1304,Customer support needed: screen is displaying incorrectly Please look into it.,Technical Issue
+1305,"Please help, how does the service work Can you check this for me?",General Inquiry
+1306,I need assistance because website is not loading properly This needs to be fixed.,Technical Issue
+1307,courier has not contacted me Can you check this for me?,Delivery
+1308,I am facing this problem: item arrived with missing parts Please look into it.,Product Issue
+1309,"Please help, need general information before ordering Please look into it.",General Inquiry
+1310,charged twice for the same payment This needs to be fixed.,Billing & Payment
+1311,My issue is that want to check refund status.,Refund
+1312,Can you help? unexpected fee on bill.,Billing & Payment
+1313,order has not been delivered.,Delivery
+1314,My issue is that refund was processed for wrong amount Please resolve this.,Refund
+1315,My issue is that page keeps refreshing.,Technical Issue
+1316,I am facing this problem: unclear charge on invoice Please provide a solution.,Billing & Payment
+1317,"Please help, product stopped working quickly Kindly help me resolve the issue.",Product Issue
+1318,My issue is that cannot upload a file Can you check this for me?,Technical Issue
+1319,I need assistance because cancellation option is not working Please provide a solution.,Cancellation
+1320,Customer support needed: delivery marked unsuccessful while I was available Can you investigate this?,Delivery
+1321,I need assistance because how does the service work Please provide a solution.,General Inquiry
+1322,My issue is that delivery address was not followed Please look into it.,Delivery
+1323,Could you resolve this: page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+1324,Can you help? want to know support hours Can you check this for me?,General Inquiry
+1325,"Please help, cancellation option is not working Can you check this for me?",Cancellation
+1326,I need assistance because want to know when package will arrive I would appreciate your help.,Delivery
+1327,I want to report that product stopped working quickly.,Product Issue
+1328,Can you help? delivery is later than promised Please resolve this.,Delivery
+1329,I am facing this problem: cannot access account from a new device I would appreciate your help.,Account & Login
+1330,I am facing this problem: website is not loading properly Please resolve this.,Technical Issue
+1331,I am facing this problem: charged a different amount Please resolve this.,Billing & Payment
+1332,"Please help, order has not been delivered.",Delivery
+1333,Can you help? want to cancel booking Please resolve this.,Cancellation
+1334,unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+1335,I would like to report that cannot upload a file Please provide a solution.,Technical Issue
+1336,"Please help, app freezes during checkout Can you check this for me?",Technical Issue
+1337,My issue is that getting an error message I need assistance with this.,Technical Issue
+1338,Customer support needed: want to change registered email Please resolve this.,Account & Login
+1339,I need assistance because a feature is not working Please look into it.,Technical Issue
+1340,"Please help, want to know support hours Please provide a solution.",General Inquiry
+1341,Can you help? incorrect billing information I would appreciate your help.,Billing & Payment
+1342,I want to report that want to know when package will arrive Please look into it.,Delivery
+1343,Can you help? website is not loading properly This needs to be fixed.,Technical Issue
+1344,Customer support needed: cancellation option is not working Can you check this for me?,Cancellation
+1345,My issue is that item arrived with missing parts I would appreciate your help.,Product Issue
+1346,Could you resolve this: service stopped working after an update I need assistance with this.,Technical Issue
+1347,need help with pending refund Please look into it.,Refund
+1348,I want to report that received only part of the refund I need assistance with this.,Refund
+1349,package says delivered but was not received Can you investigate this?,Delivery
+1350,I am facing this problem: need help cancelling service Please look into it.,Cancellation
+1351,Could you resolve this: item does not work as described This needs to be fixed.,Product Issue
+1352,I am facing this problem: screen is displaying incorrectly I would appreciate your help.,Technical Issue
+1353,item arrived broken Can you investigate this?,Product Issue
+1354,My issue is that item arrived with missing parts Please look into it.,Product Issue
+1355,I need assistance because refunded amount is incorrect Please provide a solution.,Refund
+1356,I need assistance because requested cancellation but order is still active I need assistance with this.,Cancellation
+1357,I would like to report that password reset email is not arriving Can you investigate this?,Account & Login
+1358,I am facing this problem: payment will not go through I need assistance with this.,Billing & Payment
+1359,Could you resolve this: charged a different amount This needs to be fixed.,Billing & Payment
+1360,Could you resolve this: received a different product I need assistance with this.,Product Issue
+1361,charged a different amount Please resolve this.,Billing & Payment
+1362,I need assistance because accidentally placed order and want to cancel I would appreciate your help.,Cancellation
+1363,Customer support needed: unclear charge on invoice Can you check this for me?,Billing & Payment
+1364,I am facing this problem: wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+1365,Could you resolve this: want to find terms and conditions I need assistance with this.,General Inquiry
+1366,Customer support needed: want to cancel order.,Cancellation
+1367,"Please help, received a different product Can you investigate this?",Product Issue
+1368,I am facing this problem: refund was processed for wrong amount This needs to be fixed.,Refund
+1369,I am facing this problem: want to cancel order.,Cancellation
+1370,Can you help? incorrect invoice charge Can you check this for me?,Billing & Payment
+1371,I need assistance because cannot access account from a new device I would appreciate your help.,Account & Login
+1372,"Please help, charged a different amount This needs to be fixed.",Billing & Payment
+1373,received a different product I need assistance with this.,Product Issue
+1374,My issue is that product stopped working quickly.,Product Issue
+1375,My issue is that tracking has not updated Can you check this for me?,Delivery
+1376,I am facing this problem: application is extremely slow Please resolve this.,Technical Issue
+1377,I want to report that refunded amount is incorrect Please provide a solution.,Refund
+1378,My issue is that a feature is not working I would appreciate your help.,Technical Issue
+1379,I am facing this problem: unable to verify account I need assistance with this.,Account & Login
+1380,I need assistance because want to find terms and conditions Can you investigate this?,General Inquiry
+1381,Customer support needed: requested cancellation but order is still active Can you investigate this?,Cancellation
+1382,Customer support needed: need information about my order I need assistance with this.,General Inquiry
+1383,Could you resolve this: forgot password and cannot reset it This needs to be fixed.,Account & Login
+1384,"Please help, product arrived damaged Kindly help me resolve the issue.",Product Issue
+1385,I am facing this problem: need information about services Kindly help me resolve the issue.,General Inquiry
+1386,Can you help? item does not work as described This needs to be fixed.,Product Issue
+1387,I would like to report that getting an error message I need assistance with this.,Technical Issue
+1388,I need assistance because need to cancel before shipping Can you check this for me?,Cancellation
+1389,refund is missing from bank account Please look into it.,Refund
+1390,I am facing this problem: need information about my order Can you investigate this?,General Inquiry
+1391,Could you resolve this: received the wrong package This needs to be fixed.,Delivery
+1392,Customer support needed: refund was processed for wrong amount Please resolve this.,Refund
+1393,Can you help? service stopped working after an update Can you investigate this?,Technical Issue
+1394,"Please help, cancellation option is not working Please provide a solution.",Cancellation
+1395,I need assistance because package says delivered but was not received I need assistance with this.,Delivery
+1396,My issue is that tracking has not updated Please provide a solution.,Delivery
+1397,refund is missing from bank account I would appreciate your help.,Refund
+1398,"Please help, unclear charge on invoice Can you check this for me?",Billing & Payment
+1399,Customer support needed: screen is displaying incorrectly I would appreciate your help.,Technical Issue
+1400,Customer support needed: payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+1401,want to know support hours Can you check this for me?,General Inquiry
+1402,I am facing this problem: have a question about features Please look into it.,General Inquiry
+1403,Can you help? item arrived with missing parts I would appreciate your help.,Product Issue
+1404,Could you resolve this: unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+1405,item arrived with missing parts I would appreciate your help.,Product Issue
+1406,I want to report that forgot password and cannot reset it Please resolve this.,Account & Login
+1407,Can you help? verification code is not working Can you check this for me?,Account & Login
+1408,I want to report that delivery is later than promised Please resolve this.,Delivery
+1409,I want to report that charged twice for the same payment This needs to be fixed.,Billing & Payment
+1410,requested refund but have not received it.,Refund
+1411,Can you help? password reset email is not arriving I need assistance with this.,Account & Login
+1412,I would like to report that want to cancel subscription Please resolve this.,Cancellation
+1413,"Please help, wrong amount charged.",Billing & Payment
+1414,I would like to report that refund is missing from bank account Please look into it.,Refund
+1415,I am facing this problem: want to check refund status.,Refund
+1416,received the wrong package This needs to be fixed.,Delivery
+1417,Customer support needed: unable to verify account I need assistance with this.,Account & Login
+1418,I would like to report that how does the service work Please provide a solution.,General Inquiry
+1419,I am facing this problem: want to find terms and conditions Can you investigate this?,General Inquiry
+1420,"Please help, need general information before ordering I would appreciate your help.",General Inquiry
+1421,Customer support needed: want to know available plans Please resolve this.,General Inquiry
+1422,Could you resolve this: want to stop recurring subscription.,Cancellation
+1423,"Please help, cannot log in Kindly help me resolve the issue.",Account & Login
+1424,accidentally placed order and want to cancel Please look into it.,Cancellation
+1425,My issue is that order has not been delivered Kindly help me resolve the issue.,Delivery
+1426,I want to report that refund is still pending This needs to be fixed.,Refund
+1427,Customer support needed: delivery marked unsuccessful while I was available I need assistance with this.,Delivery
+1428,Customer support needed: refund is still pending Please resolve this.,Refund
+1429,I want to report that product quality is poor This needs to be fixed.,Product Issue
+1430,I would like to report that wrong amount charged.,Billing & Payment
+1431,I want to report that application is extremely slow Please resolve this.,Technical Issue
+1432,Can you help? received the wrong package Please resolve this.,Delivery
+1433,a feature is not working I would appreciate your help.,Technical Issue
+1434,"Please help, cannot log in.",Account & Login
+1435,Could you resolve this: need general information before ordering I would appreciate your help.,General Inquiry
+1436,I want to report that want to know support hours Please provide a solution.,General Inquiry
+1437,I need assistance because want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+1438,Can you help? want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+1439,I want to report that refund is missing from bank account I would appreciate your help.,Refund
+1440,I would like to report that need help cancelling service I would appreciate your help.,Cancellation
+1441,I am facing this problem: delivery is later than promised This needs to be fixed.,Delivery
+1442,Can you help? how does the service work Please provide a solution.,General Inquiry
+1443,Can you help? charged twice for the same payment Please resolve this.,Billing & Payment
+1444,Can you help? refund was processed for wrong amount This needs to be fixed.,Refund
+1445,I am facing this problem: product stopped working quickly Kindly help me resolve the issue.,Product Issue
+1446,Can you help? refund is missing from bank account Please look into it.,Refund
+1447,Could you resolve this: cannot upload a file Please provide a solution.,Technical Issue
+1448,want to cancel subscription Please resolve this.,Cancellation
+1449,"Please help, login credentials are rejected Please look into it.",Account & Login
+1450,Could you resolve this: login credentials are rejected Please look into it.,Account & Login
+1451,charged a different amount This needs to be fixed.,Billing & Payment
+1452,"Please help, want to cancel subscription Please resolve this.",Cancellation
+1453,I am facing this problem: need general information before ordering Please look into it.,General Inquiry
+1454,Can you help? need help cancelling service I would appreciate your help.,Cancellation
+1455,My issue is that received the wrong package Please resolve this.,Delivery
+1456,Customer support needed: accidentally placed order and want to cancel Please look into it.,Cancellation
+1457,Can you help? package is stuck with courier Kindly help me resolve the issue.,Delivery
+1458,I am facing this problem: delivery is later than promised Please resolve this.,Delivery
+1459,I would like to report that payment deducted but still pending I would appreciate your help.,Billing & Payment
+1460,I would like to report that incorrect billing information Please look into it.,Billing & Payment
+1461,requested refund but have not received it Kindly help me resolve the issue.,Refund
+1462,Can you help? refunded amount is incorrect Can you check this for me?,Refund
+1463,Can you help? delivery address was not followed Please look into it.,Delivery
+1464,Customer support needed: have a question about features I would appreciate your help.,General Inquiry
+1465,"Please help, verification code is not working Can you check this for me?",Account & Login
+1466,My issue is that application keeps crashing Kindly help me resolve the issue.,Technical Issue
+1467,Customer support needed: need help with pending refund I would appreciate your help.,Refund
+1468,My issue is that getting an error message Can you investigate this?,Technical Issue
+1469,My issue is that need help with pending refund I would appreciate your help.,Refund
+1470,Could you resolve this: product quality is poor This needs to be fixed.,Product Issue
+1471,Can you help? want to check refund status.,Refund
+1472,Customer support needed: want to find terms and conditions Can you investigate this?,General Inquiry
+1473,Customer support needed: product stopped working quickly.,Product Issue
+1474,I need assistance because need general information before ordering I would appreciate your help.,General Inquiry
+1475,I need assistance because specifications do not match listing Can you check this for me?,Product Issue
+1476,I need assistance because delivery address was not followed I would appreciate your help.,Delivery
+1477,I want to report that application is extremely slow This needs to be fixed.,Technical Issue
+1478,I would like to report that want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+1479,application keeps crashing Kindly help me resolve the issue.,Technical Issue
+1480,I need assistance because refund is still pending Please resolve this.,Refund
+1481,I need assistance because cancellation option is not working Can you check this for me?,Cancellation
+1482,Customer support needed: item does not work as described This needs to be fixed.,Product Issue
+1483,I am facing this problem: account is locked Can you check this for me?,Account & Login
+1484,need information about my order Can you investigate this?,General Inquiry
+1485,"Please help, received only part of the refund I need assistance with this.",Refund
+1486,I need assistance because item does not work as described This needs to be fixed.,Product Issue
+1487,Customer support needed: charged a different amount This needs to be fixed.,Billing & Payment
+1488,Could you resolve this: specifications do not match listing Can you check this for me?,Product Issue
+1489,"Please help, website is not loading properly Please resolve this.",Technical Issue
+1490,I would like to report that account is locked Can you check this for me?,Account & Login
+1491,Can you help? need general information before ordering Please look into it.,General Inquiry
+1492,I want to report that received a different product I need assistance with this.,Product Issue
+1493,I am facing this problem: unexpected fee on bill Kindly help me resolve the issue.,Billing & Payment
+1494,I am facing this problem: password reset email is not arriving I need assistance with this.,Account & Login
+1495,I need assistance because need information about services.,General Inquiry
+1496,I want to report that product has a defect Can you check this for me?,Product Issue
+1497,cancelled order money was not returned Can you check this for me?,Refund
+1498,I want to report that need information about services.,General Inquiry
+1499,want to stop recurring subscription Kindly help me resolve the issue.,Cancellation
+1500,I need assistance because specifications do not match listing Please provide a solution.,Product Issue
+1501,My issue is that unable to verify account Can you investigate this?,Account & Login
+1502,I would like to report that cannot upload a file Can you check this for me?,Technical Issue
+1503,I am facing this problem: received the wrong package This needs to be fixed.,Delivery
+1504,I am facing this problem: need general information before ordering I would appreciate your help.,General Inquiry
+1505,Can you help? have a question about features I would appreciate your help.,General Inquiry
+1506,Can you help? refund is missing from bank account I would appreciate your help.,Refund
+1507,courier has not contacted me Please provide a solution.,Delivery
+1508,want to stop recurring subscription.,Cancellation
+1509,My issue is that need to cancel before shipping Can you check this for me?,Cancellation
+1510,I would like to report that unclear charge on invoice Can you check this for me?,Billing & Payment
+1511,My issue is that want to cancel booking Please resolve this.,Cancellation
+1512,I want to report that need help cancelling service I would appreciate your help.,Cancellation
+1513,My issue is that want to know available plans This needs to be fixed.,General Inquiry
+1514,I would like to report that specifications do not match listing Can you check this for me?,Product Issue
+1515,I need assistance because requested cancellation but order is still active Can you investigate this?,Cancellation
+1516,I want to report that item does not work as described Please resolve this.,Product Issue
+1517,My issue is that want to change registered email Please resolve this.,Account & Login
+1518,Could you resolve this: verification code is not working Please provide a solution.,Account & Login
+1519,Can you help? received the wrong package This needs to be fixed.,Delivery
+1520,My issue is that verification code is not working Can you check this for me?,Account & Login
+1521,"Please help, want to stop recurring subscription.",Cancellation
+1522,Could you resolve this: application is extremely slow Please resolve this.,Technical Issue
+1523,Could you resolve this: want to know support hours Please provide a solution.,General Inquiry
+1524,I need assistance because want to know support hours Please provide a solution.,General Inquiry
+1525,I would like to report that order has not been delivered.,Delivery
+1526,I want to report that want to find terms and conditions Can you investigate this?,General Inquiry
+1527,Can you help? payment failed despite sufficient balance I need assistance with this.,Billing & Payment
+1528,I need assistance because product has visible damage I would appreciate your help.,Product Issue
+1529,I would like to report that received a different product I need assistance with this.,Product Issue
+1530,I am facing this problem: cancellation option is not working Please provide a solution.,Cancellation
+1531,Can you help? payment deducted but still pending I would appreciate your help.,Billing & Payment
+1532,I need assistance because unclear charge on invoice Can you check this for me?,Billing & Payment
+1533,I need assistance because how does the service work Can you check this for me?,General Inquiry
+1534,Can you help? want to know when package will arrive I would appreciate your help.,Delivery
+1535,I need assistance because need help with pending refund Please look into it.,Refund
+1536,verification code is not working Can you check this for me?,Account & Login
+1537,I would like to report that how can I cancel my purchase I need assistance with this.,Cancellation
+1538,My issue is that accidentally placed order and want to cancel Please look into it.,Cancellation
+1539,cannot log in.,Account & Login
+1540,refund was processed for wrong amount This needs to be fixed.,Refund
+1541,"Please help, payment failed despite sufficient balance I need assistance with this.",Billing & Payment
+1542,Customer support needed: unable to verify account Can you investigate this?,Account & Login
+1543,Customer support needed: tracking has not updated Please provide a solution.,Delivery
+1544,Could you resolve this: refund is missing from bank account I would appreciate your help.,Refund
+1545,cannot upload a file Can you check this for me?,Technical Issue
+1546,I am facing this problem: have a question about features I would appreciate your help.,General Inquiry
+1547,Could you resolve this: payment deducted but still pending Please look into it.,Billing & Payment
+1548,"Please help, specifications do not match listing Can you check this for me?",Product Issue
+1549,I would like to report that want to cancel subscription This needs to be fixed.,Cancellation
+1550,I am facing this problem: account details will not update.,Account & Login
+1551,Customer support needed: want to change registered email This needs to be fixed.,Account & Login
+1552,Could you resolve this: incorrect billing information I would appreciate your help.,Billing & Payment
+1553,Could you resolve this: unable to verify account Can you investigate this?,Account & Login
+1554,I want to report that incorrect billing information Please look into it.,Billing & Payment
+1555,need general information before ordering I would appreciate your help.,General Inquiry
+1556,I want to report that cannot access account from a new device Please look into it.,Account & Login
+1557,product has a defect Can you check this for me?,Product Issue
+1558,Could you resolve this: package is stuck with courier Kindly help me resolve the issue.,Delivery
+1559,Customer support needed: want to find terms and conditions I need assistance with this.,General Inquiry
+1560,I would like to report that cannot access account from a new device I would appreciate your help.,Account & Login
+1561,Customer support needed: getting an error message I need assistance with this.,Technical Issue
+1562,I want to report that want to know available plans Please resolve this.,General Inquiry
+1563,I would like to report that received the wrong package Please resolve this.,Delivery
+1564,I am facing this problem: want to know support hours Please provide a solution.,General Inquiry
+1565,Can you help? wrong amount charged Kindly help me resolve the issue.,Billing & Payment
+1566,I want to report that item arrived broken I need assistance with this.,Product Issue
+1567,I would like to report that want to cancel order.,Cancellation
+1568,I want to report that page keeps refreshing Kindly help me resolve the issue.,Technical Issue
+1569,"Please help, product has a defect Please provide a solution.",Product Issue
+1570,I want to report that app freezes during checkout Please provide a solution.,Technical Issue
+1571,My issue is that need general information before ordering Please look into it.,General Inquiry
+1572,I would like to report that want to know available plans This needs to be fixed.,General Inquiry
+1573,want to cancel booking This needs to be fixed.,Cancellation
+1574,I would like to report that need information about my order I need assistance with this.,General Inquiry
+1575,My issue is that product arrived damaged.,Product Issue
+1576,I want to report that cancelled order money was not returned Can you check this for me?,Refund
+1577,I am facing this problem: incorrect invoice charge Please provide a solution.,Billing & Payment
+1578,I need assistance because want to cancel subscription This needs to be fixed.,Cancellation
+1579,I am facing this problem: refund is still pending This needs to be fixed.,Refund
+1580,I would like to report that received a different product Can you investigate this?,Product Issue
+1581,My issue is that product has a defect Can you check this for me?,Product Issue
+1582,"Please help, incorrect billing information I would appreciate your help.",Billing & Payment
+1583,"Please help, payment will not go through I need assistance with this.",Billing & Payment
+1584,Customer support needed: payment will not go through I need assistance with this.,Billing & Payment
+1585,I am facing this problem: getting an error message I need assistance with this.,Technical Issue
+1586,I want to report that want to cancel order.,Cancellation
+1587,Could you resolve this: payment failed despite sufficient balance Can you investigate this?,Billing & Payment
+1588,I would like to report that want to check refund status Kindly help me resolve the issue.,Refund
+1589,I would like to report that want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+1590,Customer support needed: need help cancelling service Please look into it.,Cancellation
+1591,I want to report that order has not been delivered.,Delivery
+1592,Could you resolve this: want an explanation of service options.,General Inquiry
+1593,Customer support needed: delivery address was not followed Please look into it.,Delivery
+1594,My issue is that product has a defect Please provide a solution.,Product Issue
+1595,"Please help, product stopped working quickly.",Product Issue
+1596,Can you help? item arrived broken I need assistance with this.,Product Issue
+1597,Could you resolve this: want an explanation of service options Kindly help me resolve the issue.,General Inquiry
+1598,"Please help, incorrect invoice charge Please provide a solution.",Billing & Payment
+1599,Could you resolve this: delivery is later than promised Please resolve this.,Delivery
+1600,I want to report that want to stop recurring subscription.,Cancellation
